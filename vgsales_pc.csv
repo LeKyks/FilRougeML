@@ -1,0 +1,961 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,The Sims 3,PC,2009.0,Simulation,Electronic Arts,0.98,6.42,0.0,0.71,8.11
+2,World of Warcraft,PC,2004.0,Role-Playing,Activision,0.07,6.21,0.0,0.0,6.28
+3,Diablo III,PC,2012.0,Role-Playing,Activision,2.43,2.15,0.0,0.62,5.2
+4,Microsoft Flight Simulator,PC,1996.0,Simulation,Microsoft Game Studios,3.22,1.69,0.0,0.2,5.12
+5,StarCraft II: Wings of Liberty,PC,2010.0,Strategy,Activision,2.56,1.68,0.0,0.59,4.83
+6,Warcraft II: Tides of Darkness,PC,1995.0,Strategy,Activision,1.7,2.27,0.0,0.23,4.21
+7,Half-Life,PC,1997.0,Shooter,Vivendi Games,4.03,0.0,0.09,0.0,4.12
+8,World of Warcraft: The Burning Crusade,PC,2007.0,Role-Playing,Activision,2.57,1.52,0.0,0.0,4.09
+9,The Elder Scrolls V: Skyrim,PC,2011.0,Role-Playing,Bethesda Softworks,1.15,2.09,0.0,0.64,3.88
+10,The Sims: Unleashed,PC,2002.0,Simulation,Electronic Arts,2.03,1.56,0.0,0.17,3.76
+11,Doom II: Hell on Earth,PC,1994.0,Shooter,Virgin Interactive,2.05,1.4,0.0,0.16,3.61
+12,The Sims: Vacation,PC,2002.0,Simulation,Electronic Arts,1.72,1.21,0.0,0.14,3.07
+13,The Sims: Livin Large,PC,2000.0,Misc,Electronic Arts,1.67,1.18,0.0,0.13,2.99
+14,The Sims 4,PC,2014.0,Simulation,Electronic Arts,0.96,1.72,0.0,0.29,2.97
+15,Star Wars: The Old Republic,PC,2011.0,Role-Playing,Electronic Arts,1.58,1.01,0.0,0.38,2.97
+16,Command & Conquer: Red Alert,PC,1996.0,Strategy,Virgin Interactive,1.37,1.34,0.0,0.14,2.85
+17,Myst,PC,1994.0,Adventure,Red Orb,0.02,2.79,0.0,0.0,2.81
+18,Battlefield 3,PC,2011.0,Shooter,Electronic Arts,0.89,1.43,0.0,0.48,2.79
+19,Riven: The Sequel to Myst,PC,1997.0,Adventure,Red Orb,1.52,0.82,0.0,0.1,2.43
+20,Theme Hospital,PC,1997.0,Strategy,Electronic Arts,2.3,0.1,0.0,0.0,2.4
+21,Monopoly,PC,1994.0,Misc,Hasbro Interactive,1.49,0.81,0.0,0.1,2.39
+22,Half-Life 2,PC,2004.0,Shooter,Vivendi Games,2.28,0.02,0.08,0.0,2.37
+23,Guild Wars 2,PC,2012.0,Action,NCSoft,0.95,1.06,0.0,0.29,2.3
+24,Tomb Raider II,PC,1997.0,Action,Eidos Interactive,0.91,1.25,0.0,0.13,2.29
+25,The Sims: House Party,PC,2001.0,Simulation,Electronic Arts,1.23,0.83,0.0,0.1,2.16
+26,SimCity 2000,PC,1992.0,Simulation,Maxis,1.2,0.84,0.0,0.1,2.14
+27,World of Warcraft: Cataclysm,PC,2010.0,Role-Playing,Activision,1.77,0.32,0.0,0.0,2.08
+28,Sim Theme Park,PC,1998.0,Strategy,Electronic Arts,2.04,0.04,0.0,0.0,2.08
+29,Warcraft: Orcs & Humans,PC,1994.0,Strategy,Activision,0.89,1.08,0.0,0.11,2.08
+30,Star Wars: Dark Forces,PC,1994.0,Shooter,LucasArts,1.09,0.77,0.0,0.09,1.95
+31,Who wants to be a millionaire,PC,1999.0,Misc,Disney Interactive Studios,1.94,0.0,0.0,0.0,1.94
+32,The Sims: Makin' Magic,PC,2003.0,Simulation,Electronic Arts,1.03,0.8,0.0,0.09,1.92
+33,World of Warcraft: Mists of Pandaria,PC,2012.0,Role-Playing,Activision,0.84,0.76,0.0,0.23,1.83
+34,The Sims: Hot Date,PC,2001.0,Simulation,Electronic Arts,1.81,0.0,0.0,0.0,1.82
+35,Call of Duty: Modern Warfare 3,PC,2011.0,Shooter,Activision,0.41,0.98,0.0,0.33,1.72
+36,The Sims 3: Late Night Expansion Pack,PC,2010.0,Simulation,Electronic Arts,0.59,0.87,0.0,0.25,1.71
+37,Sid Meier's Civilization V,PC,2010.0,Strategy,Take-Two Interactive,0.98,0.52,0.0,0.19,1.69
+38,The Sims: Superstar,PC,2003.0,Simulation,Electronic Arts,1.67,0.0,0.0,0.0,1.68
+39,StarCraft II: Heart of the Swarm,PC,2013.0,Strategy,Activision,0.82,0.65,0.0,0.19,1.67
+40,Call of Duty: Black Ops,PC,,Shooter,Activision,0.58,0.81,0.0,0.24,1.63
+41,Diablo,PC,1996.0,Role-Playing,Activision,0.01,1.58,0.0,0.0,1.59
+42,Command & Conquer: Tiberian Sun,PC,1999.0,Strategy,Westwood Studios,1.55,0.0,0.0,0.0,1.55
+43,Warcraft III: The Frozen Throne,PC,2003.0,Strategy,Activision,0.58,0.87,0.0,0.09,1.54
+44,Call of Duty: Black Ops II,PC,2012.0,Shooter,Activision,0.63,0.69,0.0,0.21,1.53
+45,Football Manager 2012,PC,2011.0,Sports,Sega,0.02,1.16,0.0,0.34,1.51
+46,Final Fantasy XIV: A Realm Reborn,PC,2010.0,Role-Playing,Square Enix,0.86,0.48,0.0,0.17,1.5
+47,Anno 2070,PC,2011.0,Strategy,Ubisoft,0.0,1.13,0.0,0.32,1.45
+48,SimCity (2013),PC,2013.0,Simulation,Electronic Arts,0.48,0.77,0.0,0.19,1.44
+49,Battlefield 4,PC,2013.0,Shooter,Electronic Arts,0.38,0.86,0.0,0.16,1.4
+50,Command & Conquer: Red Alert 2,PC,2000.0,Strategy,Electronic Arts,1.32,0.02,0.0,0.0,1.34
+51,World of Warcraft: Wrath of the Lich King,PC,2008.0,Role-Playing,Activision,0.01,0.13,0.0,1.18,1.32
+52,The Sims 2: Nightlife,PC,2005.0,Simulation,Electronic Arts,1.22,0.05,0.0,0.0,1.27
+53,Football Manager 2011,PC,2010.0,Sports,Sega,0.0,1.01,0.0,0.25,1.26
+54,Championship Manager 03/04,PC,2003.0,Sports,Eidos Interactive,0.0,1.15,0.0,0.11,1.26
+55,RollerCoaster Tycoon 2,PC,2002.0,Strategy,Atari,1.19,0.05,0.0,0.0,1.25
+56,Farming Simulator 2015,PC,2014.0,Simulation,Focus Home Interactive,0.08,1.02,0.0,0.13,1.23
+57,Fallout 4,PC,2015.0,Role-Playing,Bethesda Softworks,0.5,0.63,0.0,0.1,1.23
+58,Spore,PC,2008.0,Strategy,Electronic Arts,0.03,1.06,0.0,0.09,1.17
+59,Football Manager 2013,PC,2012.0,Sports,Sega,0.0,0.95,0.0,0.22,1.17
+60,Fallout: New Vegas,PC,2010.0,Role-Playing,Bethesda Softworks,0.58,0.45,0.0,0.14,1.16
+61,Worldwide Soccer Manager 2009,PC,2008.0,Simulation,Sega,0.0,1.14,0.0,0.01,1.15
+62,Call of Duty 4: Modern Warfare,PC,2007.0,Shooter,Activision,0.0,1.12,0.0,0.03,1.15
+63,Worldwide Soccer Manager 2008,PC,2007.0,Sports,Russel,0.0,1.12,0.0,0.0,1.12
+64,Empire: Total War,PC,2009.0,Strategy,Sega,0.01,0.97,0.0,0.11,1.09
+65,Grand Theft Auto V,PC,2015.0,Action,Take-Two Interactive,0.36,0.64,0.0,0.08,1.08
+66,Championship Manager 99/00,PC,1999.0,Sports,Eidos Interactive,0.0,0.98,0.0,0.09,1.07
+67,Diablo II: Lord of Destruction,PC,2001.0,Role-Playing,Vivendi Games,1.03,0.02,0.0,0.0,1.06
+68,Tomb Raider,PC,1996.0,Action,Eidos Interactive,0.96,0.07,0.0,0.0,1.03
+69,Championship Manager 3,PC,2003.0,Sports,Eidos Interactive,0.0,0.93,0.0,0.08,1.01
+70,Farming Simulator 2013,PC,2012.0,Simulation,Focus Home Interactive,0.0,0.8,0.0,0.18,0.99
+71,Fallout 3,PC,2008.0,Role-Playing,Bethesda Softworks,0.02,0.88,0.0,0.08,0.99
+72,Far Cry 3,PC,2012.0,Shooter,Ubisoft,0.21,0.62,0.0,0.14,0.98
+73,Grand Theft Auto: San Andreas,PC,2005.0,Action,Take-Two Interactive,0.0,0.92,0.0,0.05,0.98
+74,Mass Effect 3,PC,2012.0,Role-Playing,Electronic Arts,0.4,0.44,0.0,0.13,0.97
+75,The Witcher 2: Assassins of Kings,PC,2011.0,Action,Namco Bandai Games,0.25,0.56,0.0,0.15,0.96
+76,Assassin's Creed III,PC,2012.0,Action,Ubisoft,0.28,0.53,0.0,0.13,0.94
+77,Borderlands 2,PC,2012.0,Shooter,Take-Two Interactive,0.42,0.41,0.0,0.11,0.93
+78,Assassin's Creed,PC,2008.0,Adventure,Ubisoft,0.01,0.83,0.0,0.08,0.92
+79,The Elder Scrolls Online,PC,2014.0,Role-Playing,Bethesda Softworks,0.32,0.48,0.0,0.09,0.9
+80,Call of Duty: Modern Warfare 2,PC,2009.0,Shooter,Activision,0.01,0.79,0.0,0.09,0.89
+81,Grand Theft Auto IV,PC,2008.0,Action,Take-Two Interactive,0.01,0.79,0.0,0.08,0.88
+82,The 7th Guest,PC,1992.0,Adventure,Virgin Interactive,0.01,0.77,0.0,0.0,0.78
+83,Portal 2,PC,2011.0,Shooter,Valve Software,0.33,0.32,0.0,0.11,0.76
+84,Assassin's Creed: Revelations,PC,2011.0,Action,Ubisoft,0.14,0.48,0.0,0.14,0.76
+85,Total War: Rome II,PC,2013.0,Strategy,Sega,0.12,0.53,0.0,0.11,0.76
+86,Crysis 2,PC,2011.0,Action,Electronic Arts,0.16,0.45,0.0,0.13,0.74
+87,Call of Duty: Ghosts,PC,2013.0,Shooter,Activision,0.23,0.41,0.0,0.09,0.73
+88,Dragon Age: Inquisition,PC,2014.0,Role-Playing,Electronic Arts,0.32,0.34,0.0,0.07,0.73
+89,XCOM: Enemy Unknown,PC,2012.0,Strategy,Take-Two Interactive,0.26,0.36,0.0,0.1,0.72
+90,Crysis,PC,2007.0,Shooter,Electronic Arts,0.0,0.69,0.0,0.03,0.72
+91,Battlefield: Bad Company 2,PC,2010.0,Shooter,Electronic Arts,0.19,0.53,0.0,0.0,0.71
+92,Football Manager 2014,PC,2013.0,Sports,Sega,0.0,0.6,0.0,0.1,0.71
+93,Assassin's Creed IV: Black Flag,PC,2013.0,Action,Ubisoft,0.22,0.38,0.0,0.1,0.69
+94,The Sims: Medieval,PC,2011.0,Simulation,Electronic Arts,0.27,0.32,0.0,0.1,0.69
+95,Mass Effect,PC,2008.0,Role-Playing,Electronic Arts,0.0,0.59,0.0,0.09,0.68
+96,The Witcher 3: Wild Hunt,PC,2015.0,Role-Playing,Namco Bandai Games,0.2,0.42,0.0,0.05,0.67
+97,RIFT,PC,2011.0,Role-Playing,Unknown,0.44,0.16,0.0,0.07,0.67
+98,BioShock Infinite,PC,2013.0,Shooter,Take-Two Interactive,0.28,0.3,0.0,0.08,0.67
+99,Command & Conquer: Red Alert 3,PC,2008.0,Strategy,Electronic Arts,0.01,0.64,0.0,0.02,0.67
+100,The Sims 3: High-End Loft Stuff,PC,2010.0,Simulation,Electronic Arts,0.01,0.53,0.0,0.12,0.67
+101,Rocksmith 2014,PC,2013.0,Misc,Ubisoft,0.35,0.24,0.0,0.07,0.66
+102,Napoleon: Total War,PC,2010.0,Strategy,Sega,0.02,0.52,0.0,0.12,0.66
+103,Crysis 3,PC,2013.0,Shooter,Electronic Arts,0.17,0.39,0.0,0.09,0.64
+104,Dragon Age II,PC,2011.0,Action,Electronic Arts,0.23,0.33,0.0,0.09,0.64
+105,The Sims 3: Generations,PC,2011.0,Simulation,Electronic Arts,0.4,0.23,0.0,0.0,0.63
+106,Far Cry 4,PC,2014.0,Shooter,Ubisoft,0.15,0.42,0.0,0.05,0.62
+107,Tomb Raider III: Adventures of Lara Croft,PC,1998.0,Action,Eidos Interactive,0.59,0.03,0.0,0.0,0.62
+108,Dead Space,PC,2008.0,Action,Electronic Arts,0.0,0.53,0.0,0.06,0.59
+109,Assassin's Creed: Brotherhood,PC,2011.0,Action,Ubisoft,0.15,0.34,0.0,0.1,0.59
+110,Total War: Shogun 2,PC,2011.0,Strategy,Sega,0.19,0.31,0.0,0.09,0.59
+111,Deus Ex: Human Revolution,PC,2011.0,Shooter,Square Enix,0.25,0.25,0.0,0.09,0.59
+112,The Sims 3: World Adventures,PC,2009.0,Simulation,Electronic Arts,0.02,0.18,0.0,0.39,0.58
+113,Titanfall,PC,2014.0,Shooter,Electronic Arts,0.21,0.3,0.0,0.07,0.58
+114,Assassin's Creed II,PC,2010.0,Action,Ubisoft,0.01,0.45,0.0,0.11,0.57
+115,Assassin's Creed: Unity,PC,2014.0,Action,Ubisoft,0.17,0.33,0.0,0.05,0.55
+116,Star Wars Battlefront (2015),PC,2015.0,Shooter,Electronic Arts,0.13,0.37,0.0,0.04,0.54
+117,Batman: Arkham City,PC,2011.0,Action,Warner Bros. Interactive Entertainment,0.16,0.28,0.0,0.09,0.53
+118,The Sims 2: Open for Business,PC,2006.0,Simulation,Electronic Arts,0.46,0.05,0.0,0.0,0.52
+119,Dragon Age: Origins,PC,2009.0,Role-Playing,Electronic Arts,0.0,0.46,0.0,0.06,0.51
+120,StarCraft II: Legacy of the Void,PC,2015.0,Strategy,Activision,0.18,0.29,0.0,0.04,0.51
+121,Euro Truck Simulator,PC,2008.0,Simulation,Rondomedia,0.0,0.42,0.0,0.09,0.51
+122,Dishonored,PC,2012.0,Action,Bethesda Softworks,0.26,0.19,0.0,0.06,0.51
+123,Medal of Honor,PC,2010.0,Shooter,Electronic Arts,0.2,0.23,0.0,0.07,0.49
+124,Sniper: Art of Victory,PC,2008.0,Shooter,City Interactive,0.0,0.45,0.0,0.03,0.49
+125,Far Cry 2,PC,2008.0,Action,Ubisoft,0.01,0.45,0.0,0.03,0.49
+126,World of Warcraft: Warlords of Draenor,PC,2014.0,Action,Activision Blizzard,0.08,0.36,0.0,0.04,0.48
+127,Football Manager 2015,PC,2014.0,Simulation,Sega,0.0,0.43,0.0,0.05,0.48
+128,"Warhammer 40,000: Dawn of War II",PC,2009.0,Strategy,THQ,0.0,0.45,0.0,0.02,0.47
+129,The Sims 3: Ambitions,PC,2010.0,Simulation,Electronic Arts,0.0,0.29,0.0,0.18,0.47
+130,FIFA 12,PC,2011.0,Sports,Electronic Arts,0.04,0.33,0.0,0.1,0.47
+131,The Sims 3: Outdoor Living Stuff,PC,2011.0,Simulation,Electronic Arts,0.0,0.38,0.0,0.09,0.47
+132,Wolfenstein: The New Order,PC,2014.0,Shooter,Bethesda Softworks,0.12,0.29,0.0,0.05,0.46
+133,Watch Dogs,PC,2014.0,Action,Ubisoft,0.14,0.26,0.0,0.05,0.45
+134,FIFA 14,PC,2013.0,Sports,Electronic Arts,0.01,0.36,0.0,0.06,0.43
+135,Overwatch,PC,2016.0,Shooter,Activision,0.22,0.18,0.0,0.04,0.43
+136,Max Payne 3,PC,2012.0,Shooter,Take-Two Interactive,0.15,0.22,0.0,0.06,0.43
+137,Microsoft Flight Simulator X,PC,2006.0,Simulation,Microsoft Game Studios,0.02,0.34,0.0,0.07,0.43
+138,TERA,PC,,Role-Playing,Unknown,0.24,0.12,0.0,0.05,0.41
+139,Tomb Raider: The Last Revelation,PC,1998.0,Action,Eidos Interactive,0.41,0.0,0.0,0.0,0.41
+140,BioShock,PC,2007.0,Shooter,Take-Two Interactive,0.01,0.39,0.0,0.02,0.41
+141,Call of Duty: Advanced Warfare,PC,2014.0,Shooter,Activision,0.14,0.23,0.0,0.04,0.41
+142,Duke Nukem Forever,PC,2011.0,Shooter,Take-Two Interactive,0.18,0.17,0.0,0.06,0.41
+143,FIFA Soccer 13,PC,2012.0,Action,Electronic Arts,0.02,0.31,0.0,0.07,0.41
+144,Mafia II,PC,2010.0,Action,Take-Two Interactive,0.17,0.17,0.0,0.06,0.4
+145,Mass Effect 2,PC,2010.0,Role-Playing,Electronic Arts,0.01,0.32,0.0,0.07,0.4
+146,Age of Empires III,PC,2005.0,Strategy,Microsoft Game Studios,0.0,0.32,0.0,0.07,0.39
+147,Dawn of Discovery,PC,2009.0,Simulation,Ubisoft,0.0,0.32,0.0,0.07,0.39
+148,Saints Row: The Third,PC,2011.0,Action,THQ,0.16,0.16,0.0,0.06,0.38
+149,Need for Speed: Hot Pursuit,PC,2010.0,Racing,Electronic Arts,0.12,0.2,0.0,0.06,0.38
+150,Tom Clancy's The Division,PC,2016.0,Shooter,Ubisoft,0.2,0.14,0.0,0.03,0.37
+151,Rage,PC,2011.0,Shooter,Bethesda Softworks,0.14,0.18,0.0,0.06,0.37
+152,Medieval II: Total War Gold Edition,PC,2008.0,Strategy,Sega,0.0,0.33,0.0,0.03,0.37
+153,Sid Meier's Civilization: Beyond Earth,PC,2014.0,Strategy,Take-Two Interactive,0.11,0.22,0.0,0.03,0.37
+154,Need for Speed: The Run,PC,2011.0,Action,Electronic Arts,0.09,0.21,0.0,0.07,0.37
+155,Left 4 Dead 2,PC,2009.0,Shooter,Valve Software,0.0,0.32,0.0,0.04,0.37
+156,Middle-Earth: Shadow of Mordor,PC,2014.0,Action,Warner Bros. Interactive Entertainment,0.12,0.2,0.0,0.04,0.36
+157,Tomb Raider (2013),PC,,Action,Square Enix,0.06,0.25,0.0,0.05,0.36
+158,Company of Heroes 2,PC,2013.0,Strategy,THQ,0.06,0.25,0.0,0.05,0.36
+159,The Sims 3: Town Life Stuff,PC,2011.0,Simulation,Electronic Arts,0.11,0.17,0.0,0.05,0.34
+160,Medal of Honor: Warfighter,PC,2012.0,Action,Electronic Arts,0.14,0.15,0.0,0.04,0.33
+161,Dead Space 2,PC,2011.0,Shooter,Electronic Arts,0.13,0.15,0.0,0.05,0.33
+162,The Witcher: Enhanced Edition,PC,2008.0,Role-Playing,Atari,0.32,0.01,0.0,0.0,0.32
+163,Batman: Arkham Origins,PC,2013.0,Action,Warner Bros. Interactive Entertainment,0.13,0.16,0.0,0.04,0.32
+164,Batman: Arkham Asylum,PC,2009.0,Action,Eidos Interactive,0.0,0.27,0.0,0.05,0.32
+165,The Settlers 7: Paths to a Kingdom,PC,2010.0,Strategy,Ubisoft,0.0,0.26,0.0,0.06,0.32
+166,Fable III,PC,2011.0,Role-Playing,Microsoft Game Studios,0.09,0.17,0.0,0.05,0.32
+167,Might & Magic Heroes VI,PC,2011.0,Role-Playing,Ubisoft,0.12,0.14,0.0,0.05,0.31
+168,Football Manager 2016,PC,2015.0,Simulation,Sega,0.0,0.29,0.0,0.02,0.31
+169,Kingdoms of Amalur: Reckoning,PC,2012.0,Role-Playing,Electronic Arts,0.14,0.13,0.0,0.04,0.31
+170,1701 A.D.,PC,2006.0,Simulation,Deep Silver,0.0,0.25,0.0,0.05,0.3
+171,The Sims 2,PC,2004.0,Simulation,Electronic Arts,0.02,0.24,0.0,0.05,0.3
+172,Need for Speed: Most Wanted,PC,2005.0,Racing,Electronic Arts,0.02,0.23,0.0,0.05,0.3
+173,FIFA 15,PC,2014.0,Sports,Electronic Arts,0.0,0.27,0.0,0.03,0.3
+174,SimCity 4,PC,2003.0,Simulation,Electronic Arts,0.01,0.24,0.0,0.05,0.3
+175,World of Tanks,PC,2011.0,Shooter,Wargaming.net,0.0,0.23,0.0,0.06,0.29
+176,Borderlands: The Pre-Sequel,PC,2014.0,Shooter,Take-Two Interactive,0.11,0.15,0.0,0.03,0.29
+177,World of Warcraft: Legion,PC,2016.0,Role-Playing,Activision,0.14,0.12,0.0,0.02,0.29
+178,RollerCoaster Tycoon 3,PC,2004.0,Strategy,Atari,0.01,0.22,0.0,0.05,0.28
+179,Mass Effect Trilogy,PC,2012.0,Action,Electronic Arts,0.09,0.16,0.0,0.03,0.28
+180,R.U.S.E.,PC,2010.0,Strategy,Ubisoft,0.04,0.19,0.0,0.05,0.28
+181,The Evil Within,PC,2014.0,Action,Bethesda Softworks,0.09,0.16,0.0,0.02,0.27
+182,Tropico 4,PC,2011.0,Strategy,Kalypso Media,0.1,0.13,0.0,0.04,0.27
+183,Need for Speed Rivals,PC,2013.0,Racing,Electronic Arts,0.04,0.19,0.0,0.04,0.27
+184,Zoo Tycoon 2: Ultimate Collection,PC,2008.0,Strategy,Microsoft Game Studios,0.04,0.18,0.0,0.04,0.26
+185,The Elder Scrolls IV: Oblivion,PC,2006.0,Role-Playing,Take-Two Interactive,0.01,0.2,0.0,0.05,0.26
+186,Silent Hunter 5: Battle of the Atlantic,PC,2010.0,Simulation,Ubisoft,0.0,0.21,0.0,0.05,0.26
+187,LEGO Star Wars III: The Clone Wars,PC,2011.0,Action,LucasArts,0.1,0.13,0.0,0.03,0.26
+188,L.A. Noire: The Complete Edition,PC,2011.0,Adventure,Take-Two Interactive,0.08,0.13,0.0,0.04,0.25
+189,Hitman: Absolution,PC,2012.0,Action,Square Enix,0.03,0.17,0.0,0.04,0.25
+190,Anno 2205,PC,2015.0,Strategy,Ubisoft,0.02,0.22,0.0,0.01,0.25
+191,Homefront,PC,2011.0,Shooter,THQ,0.11,0.1,0.0,0.03,0.24
+192,BioShock 2,PC,,Shooter,Take-Two Interactive,0.02,0.19,0.0,0.04,0.24
+193,Metro 2033,PC,2010.0,Shooter,THQ,0.0,0.19,0.0,0.05,0.24
+194,Angry Birds,PC,2011.0,Puzzle,Focus Home Interactive,0.0,0.18,0.0,0.05,0.24
+195,DC Universe Online,PC,2011.0,Role-Playing,Sony Online Entertainment,0.16,0.06,0.0,0.02,0.24
+196,Total War: Attila,PC,2015.0,Strategy,Sega,0.09,0.13,0.0,0.02,0.23
+197,Call of Duty: Black Ops 3,PC,2015.0,Shooter,Activision,0.0,0.22,0.0,0.01,0.23
+198,Risen 2: Dark Waters,PC,2012.0,Role-Playing,Deep Silver,0.0,0.19,0.0,0.04,0.23
+199,Spec Ops: The Line,PC,2012.0,Shooter,Take-Two Interactive,0.11,0.09,0.0,0.03,0.23
+200,LEGO The Lord of the Rings,PC,2012.0,Action,Warner Bros. Interactive Entertainment,0.07,0.13,0.0,0.03,0.22
+201,Tom Clancy's Rainbow Six: Siege,PC,2015.0,Shooter,Ubisoft,0.12,0.08,0.0,0.02,0.22
+202,LEGO Harry Potter: Years 5-7,PC,,Action,Warner Bros. Interactive Entertainment,0.05,0.14,0.0,0.03,0.22
+203,Dead Island,PC,2011.0,Action,Deep Silver,0.12,0.07,0.0,0.03,0.22
+204,EVE Online,PC,2003.0,Role-Playing,CCP,0.0,0.19,0.0,0.02,0.22
+205,Defiance,PC,2013.0,Shooter,Trion Worlds,0.14,0.04,0.0,0.02,0.21
+206,Two Worlds II,PC,2011.0,Role-Playing,Unknown,0.09,0.09,0.0,0.03,0.2
+207,"Warhammer 40,000: Space Marine",PC,2011.0,Shooter,THQ,0.09,0.09,0.0,0.03,0.2
+208,Assassin's Creed Syndicate,PC,2015.0,Action,Ubisoft,0.1,0.08,0.0,0.02,0.2
+209,XCOM 2,PC,2016.0,Strategy,Take-Two Interactive,0.09,0.1,0.0,0.02,0.2
+210,Star Wars: Battlefront,PC,2004.0,Shooter,LucasArts,0.06,0.12,0.0,0.02,0.2
+211,Total War: Shogun 2 - Fall of the Samurai,PC,2012.0,Strategy,Sega,0.07,0.1,0.0,0.03,0.2
+212,Dead Space 3,PC,,Action,Electronic Arts,0.02,0.15,0.0,0.02,0.2
+213,South Park: The Stick of Truth,PC,2014.0,Role-Playing,Ubisoft,0.07,0.1,0.0,0.02,0.2
+214,Test Drive Unlimited 2,PC,,Racing,Atari,0.05,0.11,0.0,0.03,0.2
+215,Shutter Island,PC,2009.0,Adventure,Merscom LLC,0.0,0.17,0.0,0.03,0.2
+216,Metro: Last Light,PC,2013.0,Action,Deep Silver,0.06,0.11,0.0,0.02,0.19
+217,Aliens vs Predator,PC,2010.0,Shooter,Sega,0.0,0.17,0.0,0.02,0.19
+218,The Sims 4: Get Together,PC,2015.0,Simulation,Electronic Arts,0.05,0.13,0.0,0.01,0.19
+219,Supreme Commander 2,PC,2010.0,Strategy,Square Enix,0.0,0.15,0.0,0.04,0.19
+220,Tom Clancy's Splinter Cell: Blacklist,PC,2013.0,Action,Ubisoft,0.04,0.13,0.0,0.03,0.19
+221,Need for Speed: Shift 2 Unleashed,PC,2011.0,Racing,Electronic Arts,0.05,0.11,0.0,0.03,0.19
+222,Saints Row IV,PC,2013.0,Action,Deep Silver,0.11,0.06,0.0,0.02,0.19
+223,NBA 2K11,PC,2010.0,Action,Take-Two Interactive,0.18,0.0,0.0,0.01,0.19
+224,Arcania: Gothic 4,PC,2010.0,Role-Playing,JoWood Productions,0.09,0.08,0.0,0.02,0.19
+225,F1 2011,PC,2011.0,Racing,Codemasters,0.0,0.15,0.0,0.04,0.19
+226,Call of Duty: World at War,PC,2008.0,Shooter,Activision,0.02,0.13,0.0,0.03,0.19
+227,The Lord of the Rings: War in the North,PC,2011.0,Action,Warner Bros. Interactive Entertainment,0.04,0.11,0.0,0.03,0.18
+228,Evolve,PC,2015.0,Shooter,Take-Two Interactive,0.07,0.1,0.0,0.01,0.18
+229,Borderlands,PC,2009.0,Shooter,Take-Two Interactive,0.01,0.14,0.0,0.04,0.18
+230,Company of Heroes: Anthology,PC,2009.0,Strategy,THQ,0.0,0.15,0.0,0.04,0.18
+231,Driver: San Francisco,PC,2011.0,Racing,Ubisoft,0.05,0.1,0.0,0.03,0.18
+232,Dying Light,PC,2015.0,Action,Warner Bros. Interactive Entertainment,0.11,0.06,0.0,0.02,0.18
+233,FIFA Soccer 11,PC,2010.0,Sports,Electronic Arts,0.0,0.14,0.0,0.04,0.18
+234,LEGO Marvel Super Heroes,PC,2013.0,Action,Warner Bros. Interactive Entertainment,0.04,0.12,0.0,0.02,0.18
+235,Aliens: Colonial Marines,PC,2013.0,Shooter,Sega,0.1,0.06,0.0,0.02,0.18
+236,Dark Souls II,PC,2014.0,Role-Playing,Namco Bandai Games,0.08,0.08,0.0,0.02,0.18
+237,Tom Clancy's Ghost Recon: Future Soldier,PC,2012.0,Shooter,Ubisoft,0.05,0.1,0.0,0.03,0.18
+238,Brink,PC,2011.0,Shooter,Bethesda Softworks,0.06,0.09,0.0,0.03,0.18
+239,FIFA 16,PC,2015.0,Sports,Electronic Arts,0.04,0.13,0.0,0.01,0.18
+240,Doom (2016),PC,2016.0,Shooter,Bethesda Softworks,0.06,0.1,0.0,0.01,0.18
+241,Star Wars: Battlefront II,PC,2005.0,Shooter,LucasArts,0.02,0.13,0.0,0.03,0.18
+242,Monkey Island: Special Edition Collection,PC,2011.0,Adventure,LucasArts,0.0,0.14,0.0,0.04,0.17
+243,Dungeon Siege III,PC,2011.0,Role-Playing,Square Enix,0.08,0.08,0.0,0.02,0.17
+244,The Secret World,PC,2012.0,Role-Playing,Funcom,0.07,0.08,0.0,0.02,0.17
+245,Age of Empires III: Complete Collection,PC,2009.0,Strategy,Microsoft Game Studios,0.01,0.12,0.0,0.03,0.17
+246,Sid Meier's Civilization IV,PC,2005.0,Strategy,Take-Two Interactive,0.02,0.12,0.0,0.03,0.17
+247,Wildstar,PC,2014.0,Role-Playing,NCSoft,0.08,0.07,0.0,0.02,0.17
+248,The Sims 3: Seasons,PC,2012.0,Simulation,Electronic Arts,0.0,0.13,0.0,0.03,0.17
+249,Stronghold 3,PC,2011.0,Strategy,,0.06,0.1,0.0,0.0,0.16
+250,NBA 2K12,PC,2011.0,Sports,Take-Two Interactive,0.09,0.05,0.0,0.02,0.16
+251,The Crew,PC,2014.0,Racing,Ubisoft,0.0,0.15,0.0,0.01,0.16
+252,Bulletstorm,PC,2011.0,Shooter,Electronic Arts,0.07,0.07,0.0,0.02,0.16
+253,Sniper: Ghost Warrior,PC,2010.0,Shooter,City Interactive,0.0,0.13,0.0,0.03,0.16
+254,DiRT 3,PC,2011.0,Racing,Codemasters,0.0,0.13,0.0,0.03,0.16
+255,Darksiders II,PC,2012.0,Action,Nordic Games,0.03,0.1,0.0,0.03,0.16
+256,F.E.A.R. 3,PC,2011.0,Shooter,Warner Bros. Interactive Entertainment,0.04,0.08,0.0,0.03,0.15
+257,Deponia,PC,2012.0,Adventure,Daedalic,0.0,0.13,0.0,0.03,0.15
+258,Darksiders,PC,2010.0,Action,THQ,0.07,0.06,0.0,0.02,0.15
+259,The Sims Medieval: Pirates and Nobles,PC,2011.0,Simulation,Electronic Arts,0.05,0.08,0.0,0.02,0.15
+260,Terraria,PC,2011.0,Action,Unknown,0.0,0.13,0.0,0.02,0.15
+261,F1 2012,PC,2012.0,Racing,Codemasters,0.01,0.11,0.0,0.03,0.15
+262,Alien: Isolation,PC,2014.0,Shooter,Sega,0.0,0.13,0.0,0.01,0.15
+263,Dragon Age: Origins - Ultimate Edition,PC,2010.0,Role-Playing,Electronic Arts,0.0,0.12,0.0,0.02,0.14
+264,ArmA II,PC,2009.0,Shooter,505 Games,0.0,0.12,0.0,0.03,0.14
+265,Age of Empires: Collector's Edition,PC,2000.0,Strategy,Ubisoft,0.02,0.1,0.0,0.02,0.14
+266,The Orange Box,PC,2007.0,Shooter,Electronic Arts,0.0,0.11,0.0,0.03,0.14
+267,Star Wars: Knights of the Old Republic,PC,2003.0,Role-Playing,LucasArts,0.01,0.1,0.0,0.02,0.14
+268,Risen,PC,2009.0,Role-Playing,Deep Silver,0.0,0.11,0.0,0.03,0.14
+269,Just Cause 3,PC,2015.0,Action,Square Enix,0.03,0.11,0.0,0.01,0.14
+270,The Darkness II,PC,2012.0,Shooter,Take-Two Interactive,0.1,0.03,0.0,0.01,0.14
+271,Cities: Skylines,PC,2015.0,Simulation,Paradox Interactive,0.0,0.13,0.0,0.01,0.14
+272,Far Cry: Primal,PC,2016.0,Action,Ubisoft,0.04,0.09,0.0,0.01,0.14
+273,Dead Rising 2,PC,2010.0,Action,Capcom,0.1,0.02,0.0,0.01,0.14
+274,Dragon Age Origins: Awakening,PC,2010.0,Role-Playing,Electronic Arts,0.01,0.1,0.0,0.02,0.14
+275,Battlefield: Hardline,PC,2015.0,Shooter,Electronic Arts,0.0,0.13,0.0,0.01,0.14
+276,Red Orchestra 2: Heroes of Stalingrad,PC,2011.0,Shooter,Tripwire Interactive,0.04,0.07,0.0,0.02,0.14
+277,Euro Truck Simulator 2,PC,2012.0,Action,SCS Software,0.0,0.12,0.0,0.02,0.13
+278,Diablo II,PC,2000.0,Role-Playing,Havas Interactive,0.01,0.09,0.0,0.02,0.13
+279,Street Fighter IV,PC,,Fighting,Capcom,0.07,0.04,0.0,0.02,0.13
+280,Warcraft III: Reign of Chaos,PC,2002.0,Strategy,Vivendi Games,0.03,0.08,0.0,0.02,0.13
+281,Farming Simulator 2011,PC,2010.0,Simulation,,0.0,0.13,0.0,0.0,0.13
+282,Just Cause 2,PC,2010.0,Action,Square Enix,0.0,0.1,0.0,0.03,0.13
+283,Batman: Arkham Knight,PC,2015.0,Action,Warner Bros. Interactive Entertainment,0.08,0.03,0.0,0.01,0.13
+284,The Stronghold Collection,PC,2009.0,Strategy,Take-Two Interactive,0.03,0.08,0.0,0.02,0.13
+285,Sleeping Dogs,PC,2012.0,Action,Square Enix,0.06,0.05,0.0,0.02,0.12
+286,Alice: Madness Returns,PC,2011.0,Adventure,Electronic Arts,0.0,0.1,0.0,0.02,0.12
+287,Rocksmith,PC,,Misc,Unknown,0.06,0.04,0.0,0.01,0.12
+288,ArmA III,PC,2013.0,Shooter,Bohemia Interactive,0.0,0.1,0.0,0.02,0.12
+289,Tropico 5,PC,2014.0,Simulation,Kalypso Media,0.02,0.08,0.0,0.01,0.12
+290,Lost Horizon,PC,2010.0,Adventure,Deep Silver,0.0,0.1,0.0,0.02,0.12
+291,Darkspore,PC,2011.0,Role-Playing,Electronic Arts,0.07,0.03,0.0,0.01,0.12
+292,Stronghold,PC,2001.0,Strategy,Gathering of Developers,0.0,0.09,0.0,0.02,0.11
+293,Pro Evolution Soccer 2014,PC,2013.0,Action,Konami Digital Entertainment,0.0,0.09,0.0,0.02,0.11
+294,Stronghold Kingdoms,PC,2011.0,Strategy,DTP Entertainment,0.0,0.1,0.0,0.02,0.11
+295,18 Wheels of Steel: Extreme Trucker 2,PC,2011.0,Racing,Rondomedia,0.08,0.02,0.0,0.01,0.11
+296,Project CARS,PC,2015.0,Racing,Slightly Mad Studios,0.0,0.1,0.0,0.01,0.11
+297,Machinarium,PC,2009.0,Adventure,Daedalic,0.0,0.09,0.0,0.02,0.11
+298,Thief (2014),PC,2014.0,Action,Square Enix,0.0,0.09,0.0,0.02,0.11
+299,Call of Juarez: The Cartel,PC,2011.0,Shooter,Ubisoft,0.05,0.05,0.0,0.01,0.11
+300,Sonic Generations,PC,2011.0,Platform,Sega,0.02,0.07,0.0,0.02,0.11
+301,Tom Clancy's Splinter Cell: Conviction,PC,2010.0,Action,Ubisoft,0.0,0.08,0.0,0.02,0.11
+302,The Book of Unwritten Tales,PC,2009.0,Adventure,HMH Interactive,0.0,0.08,0.0,0.02,0.11
+303,The Whispered World,PC,2009.0,Adventure,Deep Silver,0.0,0.08,0.0,0.02,0.1
+304,Rome: Total War,PC,2004.0,Strategy,Activision,0.0,0.08,0.0,0.02,0.1
+305,Doom 3,PC,2004.0,Shooter,Activision,0.05,0.04,0.0,0.01,0.1
+306,Total War: WARHAMMER,PC,2016.0,Strategy,Sega,0.0,0.1,0.0,0.01,0.1
+307,[Prototype 2],PC,2012.0,Action,Activision,0.07,0.02,0.0,0.01,0.1
+308,Harry Potter and the Deathly Hallows - Part 1,PC,2010.0,Action,Electronic Arts,0.08,0.02,0.0,0.01,0.1
+309,Harry Potter and the Deathly Hallows - Part 2,PC,2011.0,Action,Electronic Arts,0.05,0.04,0.0,0.01,0.1
+310,Age of Empires II: The Age of Kings,PC,1999.0,Strategy,Microsoft Game Studios,0.01,0.08,0.0,0.02,0.1
+311,"Warhammer 40,000: Dawn of War II - Chaos Rising",PC,2010.0,Strategy,THQ,0.08,0.01,0.0,0.01,0.1
+312,F1 2014,PC,2014.0,Racing,Codemasters,0.0,0.09,0.0,0.01,0.1
+313,Burnout Paradise: The Ultimate Box,PC,2009.0,Racing,Electronic Arts,0.0,0.08,0.0,0.01,0.1
+314,Rise of the Tomb Raider,PC,2016.0,Adventure,Square Enix,0.0,0.09,0.0,0.01,0.1
+315,Wasteland 2,PC,2015.0,Role-Playing,inXile Entertainment,0.02,0.06,0.0,0.01,0.1
+316,Skylanders: Spyro's Adventure,PC,2011.0,Action,Activision,0.05,0.03,0.0,0.01,0.1
+317,Halo 2,PC,2007.0,Shooter,Microsoft Game Studios,0.01,0.06,0.0,0.02,0.1
+318,Ghostbusters: The Video Game (DS Version),PC,2010.0,Action,Take-Two Interactive,0.0,0.08,0.0,0.02,0.09
+319,Angry Birds: Rio,PC,2011.0,Puzzle,Focus Home Interactive,0.0,0.07,0.0,0.02,0.09
+320,Risen 3: Titan Lords,PC,2014.0,Role-Playing,Deep Silver,0.0,0.08,0.0,0.01,0.09
+321,Dungeons,PC,2011.0,Strategy,Kalypso Media,0.07,0.02,0.0,0.01,0.09
+322,Medieval II: Total War,PC,2006.0,Strategy,Sega,0.0,0.08,0.0,0.02,0.09
+323,Star Wars: Empire at War - Gold Pack,PC,2007.0,Strategy,LucasArts,0.01,0.06,0.0,0.01,0.09
+324,NBA 2K16,PC,2015.0,Sports,Take-Two Interactive,0.02,0.06,0.0,0.01,0.09
+325,Black & White 2,PC,2005.0,Strategy,Electronic Arts,0.01,0.07,0.0,0.01,0.09
+326,Pro Evolution Soccer 2012,PC,2011.0,Action,Konami Digital Entertainment,0.0,0.07,0.0,0.02,0.09
+327,The Sims 2: Apartment Life,PC,2008.0,Simulation,Electronic Arts,0.0,0.07,0.0,0.02,0.09
+328,Crysis: Maximum Edition,PC,2009.0,Shooter,Electronic Arts,0.0,0.07,0.0,0.02,0.09
+329,RollerCoaster Tycoon 3: Platinum,PC,2005.0,Strategy,Atari,0.01,0.06,0.0,0.01,0.09
+330,Age of Mythology,PC,2002.0,Strategy,Microsoft Game Studios,0.02,0.06,0.0,0.01,0.09
+331,Star Wars: Empire at War,PC,2006.0,Strategy,LucasArts,0.01,0.06,0.0,0.02,0.09
+332,Red Faction: Armageddon,PC,2011.0,Shooter,THQ,0.05,0.02,0.0,0.01,0.09
+333,Counter-Strike: Source,PC,2004.0,Shooter,Vivendi Games,0.0,0.07,0.0,0.02,0.09
+334,Gray Matter,PC,2011.0,Adventure,DTP Entertainment,0.02,0.05,0.0,0.01,0.09
+335,Might & Magic Heroes VII,PC,2015.0,Strategy,Ubisoft,0.0,0.08,0.0,0.0,0.09
+336,Pro Evolution Soccer 2013,PC,2012.0,Sports,Konami Digital Entertainment,0.0,0.07,0.0,0.01,0.09
+337,Edna & Harvey: Harvey's New Eyes,PC,2011.0,Adventure,Rondomedia,0.0,0.07,0.0,0.01,0.09
+338,Battlefield 2,PC,2005.0,Shooter,Electronic Arts,0.0,0.07,0.0,0.02,0.08
+339,Wildlife Park 3,PC,2011.0,Simulation,bitComposer Games,0.0,0.07,0.0,0.02,0.08
+340,Sniper: Ghost Warrior 2,PC,2013.0,Shooter,City Interactive,0.02,0.05,0.0,0.01,0.08
+341,X Rebirth,PC,2013.0,Simulation,Koch Media,0.0,0.08,0.0,0.01,0.08
+342,Game of Thrones,PC,2012.0,Role-Playing,Focus Home Interactive,0.0,0.07,0.0,0.01,0.08
+343,Bejeweled 3,PC,2010.0,Puzzle,PopCap Games,0.02,0.05,0.0,0.01,0.08
+344,The Sims 2: Ikea Home Stuff,PC,2008.0,Simulation,Electronic Arts,0.0,0.07,0.0,0.02,0.08
+345,Major League Baseball 2K11,PC,2011.0,Sports,Take-Two Interactive,0.06,0.01,0.0,0.01,0.08
+346,Wolfenstein: The Old Blood,PC,2015.0,Action,Bethesda Softworks,0.0,0.08,0.0,0.0,0.08
+347,The Sims 3: Fast Lane Stuff,PC,2010.0,Simulation,Electronic Arts,0.01,0.05,0.0,0.02,0.08
+348,Tomb Raider: Underworld,PC,2008.0,Action,Eidos Interactive,0.0,0.06,0.0,0.02,0.08
+349,"Warhammer 40,000: Dawn of War II - Retribution",PC,2011.0,Strategy,THQ,0.0,0.06,0.0,0.02,0.08
+350,Silent Hunter III,PC,2005.0,Simulation,Ubisoft,0.0,0.07,0.0,0.01,0.08
+351,Serious Sam 3: BFE,PC,2011.0,Shooter,Mastertronic,0.01,0.05,0.0,0.01,0.08
+352,The First Templar,PC,2011.0,Action,Kalypso Media,0.06,0.01,0.0,0.01,0.08
+353,Need For Speed: Undercover,PC,2008.0,Racing,Electronic Arts,0.0,0.07,0.0,0.01,0.08
+354,Dead Island: Riptide,PC,,Action,Deep Silver,0.0,0.07,0.0,0.01,0.08
+355,Minecraft: Story Mode,PC,2015.0,Adventure,Mojang,0.02,0.05,0.0,0.01,0.08
+356,Rayman Origins,PC,2012.0,Platform,Ubisoft,0.0,0.06,0.0,0.01,0.08
+357,Need for Speed Underground 2,PC,2004.0,Racing,Electronic Arts,0.0,0.06,0.0,0.01,0.08
+358,Need for Speed: Most Wanted,PC,2012.0,Racing,Electronic Arts,0.0,0.06,0.0,0.02,0.08
+359,The Lord of the Rings: The Battle for Middle-Earth,PC,2004.0,Strategy,Electronic Arts,0.01,0.06,0.0,0.01,0.08
+360,Metal Gear Solid V: The Phantom Pain,PC,2015.0,Action,Konami Digital Entertainment,0.0,0.07,0.0,0.0,0.08
+361,Divinity II: Ego Draconis,PC,2009.0,Role-Playing,DTP Entertainment,0.01,0.05,0.0,0.01,0.08
+362,Torchlight,PC,2009.0,Role-Playing,JoWood Productions,0.0,0.06,0.0,0.02,0.07
+363,The Sims 3: Barnacle Bay,PC,2011.0,Simulation,Electronic Arts,0.07,0.0,0.0,0.01,0.07
+364,SimCity 4: Deluxe Edition,PC,2003.0,Simulation,Electronic Arts,0.0,0.06,0.0,0.01,0.07
+365,Goodbye Deponia,PC,2013.0,Adventure,Daedalic Entertainment,0.0,0.06,0.0,0.01,0.07
+366,Pro Farm 1,PC,2011.0,Simulation,Excalibur Publishing,0.0,0.06,0.0,0.01,0.07
+367,Dark Souls,PC,2012.0,Role-Playing,Namco Bandai Games,0.0,0.06,0.0,0.01,0.07
+368,The Testament of Sherlock Holmes,PC,2012.0,Adventure,Focus Home Interactive,0.0,0.06,0.0,0.01,0.07
+369,Operation Flashpoint: Red River,PC,2011.0,Shooter,Codemasters,0.01,0.04,0.0,0.01,0.07
+370,F.E.A.R. 2: Project Origin,PC,2009.0,Shooter,Warner Bros. Interactive Entertainment,0.01,0.05,0.0,0.01,0.07
+371,Kane & Lynch 2: Dog Days,PC,2010.0,Shooter,Square Enix,0.0,0.06,0.0,0.01,0.07
+372,Fable: The Lost Chapters,PC,2005.0,Role-Playing,Microsoft Game Studios,0.01,0.05,0.0,0.01,0.07
+373,Football Manager 2010,PC,2009.0,Sports,Sega,0.0,0.06,0.0,0.01,0.07
+374,Microsoft Flight Simulator 2004: A Century of Flight,PC,2003.0,Simulation,Microsoft Game Studios,0.0,0.06,0.0,0.01,0.07
+375,Emergency 2012,PC,2010.0,Simulation,Deep Silver,0.01,0.04,0.0,0.01,0.07
+376,Hearts of Iron III,PC,2009.0,Strategy,Paradox Interactive,0.01,0.04,0.0,0.01,0.07
+377,The Sims 2: Seasons,PC,2007.0,Simulation,Electronic Arts,0.01,0.04,0.0,0.01,0.07
+378,Battleborn,PC,2016.0,Shooter,Take-Two Interactive,0.03,0.03,0.0,0.01,0.07
+379,Assassin's Creed: Rogue,PC,2015.0,Action,Ubisoft,0.04,0.02,0.0,0.01,0.07
+380,Command & Conquer 3: Tiberium Wars,PC,2007.0,Strategy,Electronic Arts,0.0,0.06,0.0,0.01,0.07
+381,Resident Evil 5,PC,2009.0,Action,Capcom,0.01,0.04,0.0,0.01,0.07
+382,GRID 2,PC,2013.0,Racing,Codemasters,0.0,0.06,0.0,0.01,0.07
+383,Alan Wake,PC,2012.0,Action,Nordic Games,0.0,0.06,0.0,0.01,0.07
+384,Cities XL 2012,PC,2011.0,Strategy,Focus Home Interactive,0.01,0.05,0.0,0.01,0.07
+385,Age of Empires III: The Asian Dynasties,PC,2007.0,Strategy,Microsoft Game Studios,0.0,0.05,0.0,0.01,0.07
+386,TRON: Evolution,PC,2010.0,Action,Disney Interactive Studios,0.06,0.0,0.0,0.0,0.07
+387,Pro Evolution Soccer 2015,PC,2014.0,Sports,Konami Digital Entertainment,0.0,0.06,0.0,0.01,0.07
+388,The LEGO Movie Videogame,PC,2014.0,Action,Warner Bros. Interactive Entertainment,0.02,0.04,0.0,0.01,0.06
+389,The Book of Unwritten Tales: The Critter Chronicles,PC,2011.0,Action,Crimson Cow,0.0,0.05,0.0,0.01,0.06
+390,Lego Batman 3: Beyond Gotham,PC,2014.0,Action,Warner Bros. Interactive Entertainment,0.0,0.06,0.0,0.01,0.06
+391,Star Wars Knights of the Old Republic II: The Sith Lords,PC,2005.0,Role-Playing,LucasArts,0.01,0.04,0.0,0.01,0.06
+392,Age of Empires Online,PC,2011.0,Strategy,Microsoft Game Studios,0.01,0.04,0.0,0.01,0.06
+393,Blur,PC,2010.0,Racing,Activision,0.01,0.04,0.0,0.01,0.06
+394,Unreal Tournament III,PC,2007.0,Shooter,Midway Games,0.0,0.05,0.0,0.01,0.06
+395,The Next BIG Thing,PC,2011.0,Adventure,Focus Home Interactive,0.0,0.05,0.0,0.01,0.06
+396,Call of Duty 2,PC,2005.0,Shooter,Activision,0.0,0.05,0.0,0.01,0.06
+397,A New Beginning,PC,2010.0,Adventure,Deep Silver,0.0,0.05,0.0,0.01,0.06
+398,S.T.A.L.K.E.R.: Call of Pripyat,PC,2009.0,Shooter,Namco Bandai Games,0.0,0.05,0.0,0.01,0.06
+399,The Witcher,PC,2007.0,Role-Playing,Atari,0.0,0.05,0.0,0.01,0.06
+400,Sacred 2: Fallen Angel,PC,2008.0,Role-Playing,Ascaron Entertainment GmbH,0.0,0.05,0.0,0.01,0.06
+401,Dead Rising 2: Off the Record,PC,2011.0,Action,Capcom,0.04,0.02,0.0,0.01,0.06
+402,EverQuest II: Destiny of Velious,PC,2011.0,Role-Playing,Sony Online Entertainment,0.06,0.0,0.0,0.0,0.06
+403,Remember Me,PC,2013.0,Action,Capcom,0.0,0.05,0.0,0.01,0.06
+404,Syndicate,PC,1992.0,Strategy,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+405,Need for Speed: Shift,PC,2009.0,Racing,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+406,Zoo Tycoon: Complete Collection,PC,2003.0,Strategy,Microsoft Game Studios,0.03,0.02,0.0,0.01,0.06
+407,Create,PC,2010.0,Action,Electronic Arts,0.04,0.01,0.0,0.01,0.06
+408,Zoo Tycoon 2,PC,2004.0,Strategy,Microsoft Game Studios,0.0,0.05,0.0,0.01,0.06
+409,LEGO Batman: The Videogame,PC,2008.0,Action,Warner Bros. Interactive Entertainment,0.02,0.03,0.0,0.01,0.06
+410,pro evolution soccer 2011,PC,2010.0,Sports,Konami Digital Entertainment,0.0,0.05,0.0,0.01,0.06
+411,S.T.A.L.K.E.R.: Shadow of Chernobyl,PC,2007.0,Shooter,THQ,0.01,0.04,0.0,0.01,0.06
+412,The Saboteur,PC,2009.0,Action,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+413,The Sims 2: University,PC,2005.0,Simulation,Electronic Arts,0.01,0.04,0.0,0.01,0.06
+414,Harry Potter and the Sorcerer's Stone,PC,2001.0,Action,Electronic Arts,0.01,0.04,0.0,0.01,0.06
+415,Murdered: Soul Suspect,PC,2014.0,Action,Square Enix,0.0,0.05,0.0,0.01,0.06
+416,Mirror's Edge,PC,2009.0,Platform,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+417,Titan Quest,PC,2006.0,Role-Playing,THQ,0.01,0.04,0.0,0.01,0.06
+418,Dungeon Keeper 2,PC,1999.0,Action,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+419,Gothic 3,PC,2006.0,Role-Playing,JoWood Productions,0.0,0.05,0.0,0.01,0.06
+420,F1 2010,PC,2010.0,Racing,Codemasters,0.0,0.05,0.0,0.01,0.06
+421,The Lost Chronicles of Zerzura,PC,2012.0,Adventure,DTP Entertainment,0.0,0.05,0.0,0.01,0.06
+422,Ski Region Simulator,PC,2011.0,Simulation,Excalibur Publishing,0.0,0.05,0.0,0.01,0.06
+423,4 Elements,PC,2009.0,Puzzle,Mastertronic,0.0,0.04,0.0,0.01,0.05
+424,Airline Tycoon 2,PC,2011.0,Simulation,Kalypso Media,0.0,0.04,0.0,0.01,0.05
+425,Medal of Honor: Airborne,PC,2007.0,Shooter,Electronic Arts,0.0,0.04,0.0,0.01,0.05
+426,IL-2 Sturmovik: Cliffs of Dover,PC,2011.0,Simulation,Ubisoft,0.0,0.04,0.0,0.01,0.05
+427,"Murder, She Wrote",PC,2009.0,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.05
+428,Front Mission Evolved,PC,2010.0,Shooter,Square Enix,0.05,0.0,0.0,0.0,0.05
+429,Dark Souls III,PC,2016.0,Role-Playing,Namco Bandai Games,0.0,0.05,0.0,0.0,0.05
+430,Tom Clancy's HAWX 2,PC,2010.0,Action,Ubisoft,0.0,0.04,0.0,0.01,0.05
+431,Venetica,PC,2009.0,Role-Playing,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+432,FIFA 17,PC,2016.0,Sports,Electronic Arts,0.0,0.05,0.0,0.0,0.05
+433,Hunted: The Demon's Forge,PC,2011.0,Action,Bethesda Softworks,0.03,0.01,0.0,0.01,0.05
+434,The Bureau: XCOM Declassified,PC,2013.0,Shooter,Take-Two Interactive,0.0,0.05,0.0,0.01,0.05
+435,Cities in Motion,PC,2011.0,Simulation,Paradox Interactive,0.0,0.04,0.0,0.01,0.05
+436,Microsoft Flight Simulator X Acceleration Expansion Pack,PC,2007.0,Simulation,Microsoft Game Studios,0.0,0.04,0.0,0.01,0.05
+437,Mortal Kombat X,PC,2015.0,Fighting,Warner Bros. Interactive Entertainment,0.01,0.04,0.0,0.0,0.05
+438,Plants vs. Zombies,PC,2009.0,Strategy,PopCap Games,0.0,0.04,0.0,0.01,0.05
+439,Star Wars: Republic Commando,PC,2005.0,Shooter,LucasArts,0.0,0.04,0.0,0.01,0.05
+440,Bejeweled Twist,PC,2008.0,Puzzle,PopCap Games,0.01,0.04,0.0,0.01,0.05
+441,Street Fighter V,PC,2016.0,Fighting,Capcom,0.0,0.05,0.0,0.0,0.05
+442,Sherlock Holmes: Crimes & Punishments,PC,2014.0,Adventure,Focus Home Interactive,0.0,0.05,0.0,0.0,0.05
+443,Men of War: Assault Squad,PC,2011.0,Strategy,1C Company,0.01,0.03,0.0,0.01,0.05
+444,Mirror's Edge Catalyst,PC,2016.0,Platform,Electronic Arts,0.01,0.03,0.0,0.01,0.05
+445,LEGO The Hobbit,PC,2014.0,Action,Warner Bros. Interactive Entertainment,0.0,0.04,0.0,0.01,0.05
+446,DiRT 2,PC,2009.0,Racing,Codemasters,0.0,0.04,0.0,0.01,0.05
+447,Singularity,PC,2010.0,Shooter,Mastertronic,0.0,0.04,0.0,0.01,0.05
+448,"Warhammer 40,000: Dawn of War",PC,2004.0,Strategy,THQ,0.01,0.03,0.0,0.01,0.05
+449,Need for Speed Carbon,PC,2006.0,Racing,Electronic Arts,0.0,0.04,0.0,0.01,0.05
+450,Empire Earth,PC,2001.0,Strategy,Vivendi Games,0.0,0.04,0.0,0.01,0.05
+451,Freelancer,PC,2003.0,Simulation,Microsoft Game Studios,0.02,0.02,0.0,0.01,0.05
+452,Operation Flashpoint: Dragon Rising,PC,2009.0,Shooter,Codemasters,0.01,0.03,0.0,0.01,0.05
+453,LEGO Indiana Jones 2: The Adventure Continues,PC,2009.0,Action,Activision,0.02,0.03,0.0,0.01,0.05
+454,Sesame Street: Cookie's Counting Carnival,PC,2010.0,Misc,Warner Bros. Interactive Entertainment,0.05,0.0,0.0,0.0,0.05
+455,Need for Speed Underground,PC,2003.0,Racing,Electronic Arts,0.0,0.04,0.0,0.01,0.05
+456,Worms Reloaded,PC,2010.0,Strategy,Team17 Software,0.0,0.04,0.0,0.01,0.05
+457,StarCraft,PC,1998.0,Strategy,Activision,0.0,0.04,0.0,0.01,0.05
+458,Far Cry,PC,2004.0,Shooter,Ubisoft,0.0,0.04,0.0,0.01,0.05
+459,Ship Simulator Extremes,PC,2010.0,Simulation,Paradox Interactive,0.0,0.04,0.0,0.01,0.05
+460,FIFA Soccer 10,PC,2009.0,Sports,Electronic Arts,0.0,0.04,0.0,0.01,0.05
+461,The Sims,PC,2000.0,Simulation,Electronic Arts,0.01,0.03,0.0,0.01,0.05
+462,Payday 2,PC,2013.0,Shooter,505 Games,0.04,0.0,0.0,0.0,0.05
+463,Grand Ages: Medieval,PC,2015.0,Strategy,Kalypso Media,0.0,0.04,0.0,0.0,0.05
+464,Company of Heroes,PC,2006.0,Strategy,THQ,0.0,0.04,0.0,0.01,0.05
+465,Silent Hunter: Wolves of the Pacific,PC,2007.0,Simulation,Ubisoft,0.0,0.04,0.0,0.01,0.05
+466,Jonah Lomu Rugby Challenge,PC,2011.0,Sports,Home Entertainment Suppliers,0.0,0.04,0.0,0.01,0.05
+467,Microsoft Train Simulator,PC,2001.0,Simulation,Microsoft Game Studios,0.0,0.04,0.0,0.01,0.05
+468,Supreme Commander,PC,2007.0,Strategy,THQ,0.0,0.04,0.0,0.01,0.05
+469,F1 2015,PC,2015.0,Racing,Codemasters,0.0,0.04,0.0,0.0,0.05
+470,FIFA Manager 12,PC,2011.0,Sports,Electronic Arts,0.0,0.03,0.0,0.01,0.05
+471,Mafia,PC,2002.0,Action,Take-Two Interactive,0.0,0.04,0.0,0.01,0.05
+472,Black Mirror 2,PC,2009.0,Adventure,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+473,City Life: World Edition,PC,2007.0,Simulation,Monte Christo Multimedia,0.0,0.04,0.0,0.01,0.05
+474,Wolfenstein,PC,2009.0,Shooter,Activision,0.01,0.03,0.0,0.01,0.05
+475,Sesame Street: Elmo's A-to-Zoo Adventure,PC,2010.0,Misc,Warner Bros. Interactive Entertainment,0.04,0.0,0.0,0.0,0.05
+476,Tropico 3,PC,2009.0,Strategy,Kalypso Media,0.0,0.04,0.0,0.01,0.05
+477,Avatar: The Game,PC,2009.0,Action,Ubisoft,0.0,0.04,0.0,0.01,0.05
+478,Plants vs. Zombies: Garden Warfare 2,PC,2016.0,Shooter,Electronic Arts,0.0,0.04,0.0,0.0,0.05
+479,Secret Files: Tunguska,PC,2006.0,Adventure,DreamCatcher Interactive,0.0,0.04,0.0,0.01,0.05
+480,Jewel Master: Cradle Of Rome 2,PC,2011.0,Puzzle,Rising Star Games,0.0,0.04,0.0,0.01,0.04
+481,Runaway: A Twist of Fate,PC,2009.0,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.04
+482,RollerCoaster Tycoon,PC,,Strategy,Microprose,0.02,0.02,0.0,0.01,0.04
+483,Tom Clancy's HAWX,PC,2009.0,Action,Ubisoft,0.0,0.03,0.0,0.01,0.04
+484,Praetorians,PC,2003.0,Strategy,Eidos Interactive,0.0,0.04,0.0,0.0,0.04
+485,Resident Evil 6,PC,2012.0,Shooter,Capcom,0.0,0.04,0.0,0.01,0.04
+486,IL-2 Sturmovik: 1946,PC,2006.0,Simulation,Ubisoft,0.0,0.04,0.0,0.01,0.04
+487,Split/Second,PC,2010.0,Racing,Disney Interactive Studios,0.0,0.04,0.0,0.01,0.04
+488,Jewel Quest 5: The Sleepless Star,PC,2011.0,Action,Astragon,0.01,0.02,0.0,0.01,0.04
+489,Life is Strange,PC,2016.0,Adventure,Square Enix,0.01,0.03,0.0,0.0,0.04
+490,Need for Speed: ProStreet,PC,2007.0,Racing,Electronic Arts,0.0,0.04,0.0,0.01,0.04
+491,Pro Evolution Soccer 2016,PC,2015.0,Sports,Konami Digital Entertainment,0.0,0.04,0.0,0.0,0.04
+492,LEGO Indiana Jones: The Original Adventures,PC,2008.0,Action,LucasArts,0.02,0.02,0.0,0.01,0.04
+493,The Sims 2: Pets,PC,2006.0,Simulation,Electronic Arts,0.01,0.02,0.0,0.01,0.04
+494,The Sims Deluxe,PC,2002.0,Simulation,Electronic Arts,0.01,0.02,0.0,0.01,0.04
+495,Port Royale 2,PC,2004.0,Strategy,Ascaron Entertainment GmbH,0.0,0.03,0.0,0.01,0.04
+496,Black & White,PC,2001.0,Strategy,Electronic Arts,0.0,0.04,0.0,0.01,0.04
+497,NCIS,PC,2011.0,Adventure,Ubisoft,0.01,0.02,0.0,0.01,0.04
+498,Company of Heroes: Tales of Valor,PC,2009.0,Strategy,THQ,0.0,0.03,0.0,0.01,0.04
+499,Devil May Cry 4,PC,2008.0,Action,Capcom,0.01,0.02,0.0,0.01,0.04
+500,Heroes of Might and Magic V,PC,2006.0,Strategy,Ubisoft,0.0,0.03,0.0,0.01,0.04
+501,Virtua Tennis 4,PC,2011.0,Sports,Sega,0.0,0.03,0.0,0.01,0.04
+502,Farm Frenzy 3,PC,2009.0,Strategy,Alawar Entertainment,0.0,0.03,0.0,0.01,0.04
+503,GRID,PC,,Racing,Codemasters,0.0,0.03,0.0,0.01,0.04
+504,Major League Baseball 2K12,PC,2012.0,Sports,Take-Two Interactive,0.04,0.0,0.0,0.0,0.04
+505,Imperial Glory,PC,2005.0,Strategy,Eidos Interactive,0.0,0.04,0.0,0.0,0.04
+506,Sonic PC Collection,PC,2009.0,Misc,Sega,0.0,0.04,0.0,0.01,0.04
+507,Lost Planet 3,PC,2013.0,Shooter,Capcom,0.0,0.03,0.0,0.01,0.04
+508,Rise of Nations,PC,2003.0,Strategy,Microsoft Game Studios,0.01,0.02,0.0,0.01,0.04
+509,Company of Heroes: Opposing Fronts,PC,2007.0,Strategy,THQ,0.01,0.03,0.0,0.01,0.04
+510,Men of War: Vietnam,PC,2011.0,Strategy,Unknown,0.0,0.03,0.0,0.01,0.04
+511,Off-Road Drive,PC,2011.0,Racing,1C Company,0.0,0.03,0.0,0.01,0.04
+512,Grand Theft Auto: Vice City,PC,2003.0,Action,Take-Two Interactive,0.0,0.03,0.0,0.01,0.04
+513,Resident Evil: Operation Raccoon City,PC,2012.0,Action,Capcom,0.0,0.03,0.0,0.01,0.04
+514,Empire Earth III,PC,2007.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.01,0.04
+515,Guild Wars Trilogy,PC,2005.0,Role-Playing,NCSoft,0.0,0.03,0.0,0.01,0.04
+516,Patrician IV,PC,2010.0,Strategy,Kalypso Media,0.03,0.0,0.0,0.0,0.04
+517,CSI: Fatal Conspiracy,PC,2010.0,Adventure,Ubisoft,0.0,0.03,0.0,0.01,0.04
+518,Resident Evil: Revelations,PC,2013.0,Action,Capcom,0.0,0.03,0.0,0.01,0.04
+519,Castlevania: Lords of Shadow 2,PC,2014.0,Action,Konami Digital Entertainment,0.01,0.03,0.0,0.0,0.04
+520,All Points Bulletin,PC,2010.0,Role-Playing,Electronic Arts,0.0,0.03,0.0,0.01,0.04
+521,The Movies,PC,2005.0,Simulation,Activision,0.01,0.03,0.0,0.01,0.04
+522,The Sims 4: Spa Day,PC,2015.0,Simulation,Electronic Arts,0.0,0.04,0.0,0.0,0.04
+523,JASF: Jane's Advanced Strike Fighters,PC,2011.0,Simulation,Deep Silver,0.02,0.01,0.0,0.0,0.04
+524,Scarface: The World is Yours,PC,2006.0,Action,Vivendi Games,0.01,0.02,0.0,0.01,0.04
+525,Blood Bowl,PC,2009.0,Sports,Focus Home Interactive,0.01,0.02,0.0,0.01,0.04
+526,Supreme Commander: Forged Alliance,PC,2007.0,Strategy,THQ,0.01,0.02,0.0,0.01,0.04
+527,Sid Meier's Railroads!,PC,2006.0,Simulation,Take-Two Interactive,0.01,0.03,0.0,0.01,0.04
+528,Caesar IV,PC,2006.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.01,0.04
+529,Harry Potter and the Order of the Phoenix,PC,2007.0,Action,Electronic Arts,0.0,0.03,0.0,0.01,0.04
+530,Halo: Combat Evolved,PC,2003.0,Shooter,Microsoft Game Studios,0.01,0.02,0.0,0.01,0.04
+531,Richard Burns Rally,PC,2004.0,Racing,SCi,0.0,0.03,0.0,0.01,0.04
+532,Saints Row 2,PC,2009.0,Action,THQ,0.0,0.03,0.0,0.01,0.04
+533,Harry Potter and the Prisoner of Azkaban,PC,2004.0,Action,Electronic Arts,0.0,0.03,0.0,0.01,0.04
+534,LEGO Jurassic World,PC,2015.0,Action,Warner Bros. Interactive Entertainment,0.0,0.04,0.0,0.0,0.04
+535,Secret Files 2: Puritas Cordis,PC,2009.0,Adventure,Deep Silver,0.0,0.03,0.0,0.01,0.04
+536,Civilization Beyond Earth: Rising Tide,PC,2015.0,Strategy,Take-Two Interactive,0.0,0.04,0.0,0.0,0.04
+537,Train Simulator 2016,PC,2015.0,Simulation,Unknown,0.0,0.04,0.0,0.0,0.04
+538,APB Reloaded,PC,2011.0,Role-Playing,Iceberg Interactive,0.02,0.01,0.0,0.0,0.04
+539,Railroad Tycoon 3,PC,2003.0,Strategy,Gathering of Developers,0.0,0.03,0.0,0.01,0.04
+540,Trine 2,PC,2011.0,Platform,Focus Home Interactive,0.0,0.03,0.0,0.01,0.04
+541,Worms: Ultimate Mayhem,PC,2011.0,Strategy,Unknown,0.0,0.03,0.0,0.0,0.04
+542,The Night of the Rabbit,PC,2013.0,Adventure,Daedalic Entertainment,0.0,0.03,0.0,0.0,0.04
+543,Age of Mythology: The Titans,PC,2003.0,Strategy,Microsoft Game Studios,0.01,0.02,0.0,0.0,0.04
+544,World of Goo,PC,2008.0,Puzzle,2D Boy,0.0,0.03,0.0,0.01,0.04
+545,World in Conflict,PC,2007.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.01,0.04
+546,S.T.A.L.K.E.R.: Clear Sky,PC,2008.0,Shooter,Deep Silver,0.0,0.03,0.0,0.01,0.04
+547,World in Conflict: Complete Edition,PC,2009.0,Strategy,Ubisoft,0.0,0.03,0.0,0.01,0.04
+548,Caesar III,PC,1998.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.01,0.04
+549,Tomb Raider: Anniversary,PC,2007.0,Action,Eidos Interactive,0.0,0.03,0.0,0.01,0.04
+550,Gothic Universe,PC,2007.0,Role-Playing,JoWood Productions,0.0,0.03,0.0,0.01,0.04
+551,Alpha Protocol,PC,2010.0,Role-Playing,Sega,0.0,0.03,0.0,0.01,0.04
+552,DarkStar One,PC,2006.0,Simulation,Ubisoft,0.0,0.03,0.0,0.01,0.04
+553,Clockwork Empires,PC,,Strategy,Unknown,0.0,0.03,0.0,0.0,0.04
+554,Sins of a Solar Empire: Trinity,PC,2010.0,Strategy,Kalypso Media,0.0,0.03,0.0,0.01,0.04
+555,Planescape: Torment,PC,1998.0,Role-Playing,Interplay,0.01,0.02,0.0,0.01,0.04
+556,Hello Kitty: Roller Rescue,PC,2005.0,Action,Empire Interactive,0.0,0.03,0.0,0.0,0.04
+557,A Game of Thrones: Genesis,PC,2011.0,Strategy,Focus Home Interactive,0.0,0.03,0.0,0.01,0.04
+558,Hotel Giant 2,PC,2008.0,Strategy,JoWood Productions,0.0,0.03,0.0,0.01,0.04
+559,Hitman: Blood Money,PC,2006.0,Action,Eidos Interactive,0.0,0.03,0.0,0.01,0.04
+560,The Cursed Crusade,PC,2011.0,Action,DTP Entertainment,0.0,0.03,0.0,0.01,0.04
+561,Star Wars Jedi Knight: Jedi Academy,PC,2003.0,Shooter,Activision,0.0,0.03,0.0,0.01,0.04
+562,Might & Magic X: Legacy,PC,2014.0,Role-Playing,Ubisoft,0.0,0.03,0.0,0.0,0.04
+563,Supreme Ruler: Cold War,PC,2011.0,Strategy,Paradox Interactive,0.0,0.03,0.0,0.01,0.03
+564,Apache: Air Assault,PC,2010.0,Simulation,Just Flight,0.0,0.03,0.0,0.01,0.03
+565,Championship Manager Season 01/02,PC,2001.0,Sports,Eidos Interactive,0.0,0.03,0.0,0.01,0.03
+566,The Void,PC,2008.0,Adventure,Mamba Games,0.0,0.03,0.0,0.01,0.03
+567,Prey,PC,2006.0,Shooter,Take-Two Interactive,0.0,0.03,0.0,0.01,0.03
+568,Rise of Nations: Rise of Legends,PC,2006.0,Strategy,Microsoft Game Studios,0.0,0.03,0.0,0.01,0.03
+569,Zoo Tycoon,PC,2001.0,Strategy,Microsoft Game Studios,0.0,0.03,0.0,0.01,0.03
+570,Sacra Terra: Angelic Night,PC,2011.0,Puzzle,Avanquest,0.01,0.02,0.0,0.01,0.03
+571,Red Faction: Guerrilla,PC,2009.0,Shooter,THQ,0.0,0.03,0.0,0.01,0.03
+572,RACE On,PC,2009.0,Racing,bitComposer Games,0.0,0.03,0.0,0.01,0.03
+573,Overlord II,PC,2009.0,Action,Codemasters,0.0,0.03,0.0,0.01,0.03
+574,Call of Juarez: Bound in Blood,PC,2009.0,Shooter,Ubisoft,0.0,0.03,0.0,0.01,0.03
+575,The Sims 2: Glamour Life Stuff,PC,2006.0,Simulation,Electronic Arts,0.0,0.03,0.0,0.01,0.03
+576,Prince of Persia: The Forgotten Sands,PC,2010.0,Action,Ubisoft,0.0,0.03,0.0,0.0,0.03
+577,Trials Fusion,PC,2014.0,Racing,Ubisoft,0.0,0.03,0.0,0.0,0.03
+578,The Binding of Isaac,PC,2012.0,Action,Unknown,0.0,0.03,0.0,0.0,0.03
+579,Midnight Mysteries: The Edgar Allan Poe Conspiracy,PC,2009.0,Adventure,GSP,0.0,0.03,0.0,0.01,0.03
+580,SBK 2011: FIM Superbike World Championship,PC,2011.0,Racing,Black Bean Games,0.0,0.03,0.0,0.01,0.03
+581,Combat Mission: Shock Force,PC,2007.0,Strategy,Paradox Interactive,0.0,0.03,0.0,0.01,0.03
+582,Rome: Total War - Gold Edition,PC,2006.0,Strategy,Sega,0.0,0.03,0.0,0.01,0.03
+583,Mystery Case Files: Ravenhearst,PC,2007.0,Puzzle,Focus Home Interactive,0.01,0.02,0.0,0.01,0.03
+584,Living Legends: Frozen Beauty,PC,2014.0,Action,Big Fish Games,0.0,0.03,0.0,0.0,0.03
+585,Guitar Hero: World Tour,PC,2009.0,Misc,Aspyr,0.0,0.03,0.0,0.01,0.03
+586,Nancy Drew: Alibi In Ashes,PC,2011.0,Adventure,Her Interactive,0.03,0.0,0.0,0.0,0.03
+587,The Walking Dead: Season One,PC,2012.0,Adventure,Avanquest Software,0.0,0.03,0.0,0.01,0.03
+588,Men of War,PC,2009.0,Strategy,505 Games,0.01,0.02,0.0,0.01,0.03
+589,Hallowed Legends: Samhain,PC,2011.0,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.01,0.03
+590,Neverwinter Nights,PC,2002.0,Role-Playing,Atari,0.0,0.03,0.0,0.01,0.03
+591,East India Company Collection,PC,2010.0,Misc,Paradox Interactive,0.0,0.03,0.0,0.0,0.03
+592,The Inner World,PC,2013.0,Adventure,Headup Games,0.0,0.03,0.0,0.0,0.03
+593,Alter Ego,PC,1985.0,Simulation,Activision,0.0,0.03,0.0,0.01,0.03
+594,Lock On: Modern Air Combat,PC,2003.0,Simulation,Ubisoft,0.0,0.03,0.0,0.01,0.03
+595,Super Meat Boy: Ultra Edition!,PC,2011.0,Platform,Unknown,0.0,0.02,0.0,0.01,0.03
+596,Homeworld 2,PC,2003.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.01,0.03
+597,Hearts of Iron IV,PC,2016.0,Strategy,Paradox Interactive,0.0,0.03,0.0,0.0,0.03
+598,Rayman 3: Hoodlum Havoc,PC,2003.0,Platform,Ubisoft,0.0,0.03,0.0,0.01,0.03
+599,Ratatouille,PC,2007.0,Action,THQ,0.01,0.01,0.0,0.0,0.03
+600,Take On Helicopters,PC,2011.0,Simulation,Unknown,0.0,0.02,0.0,0.01,0.03
+601,Shaun White Skateboarding,PC,2010.0,Sports,Ubisoft,0.0,0.03,0.0,0.01,0.03
+602,Empire Earth II,PC,2005.0,Strategy,Vivendi Games,0.0,0.03,0.0,0.0,0.03
+603,NBA 2K13,PC,2012.0,Sports,Take-Two Interactive,0.0,0.02,0.0,0.0,0.03
+604,Harry Potter and the Half-Blood Prince,PC,2009.0,Action,Electronic Arts,0.0,0.03,0.0,0.01,0.03
+605,Knights of Honor,PC,2004.0,Strategy,Sunflowers,0.0,0.02,0.0,0.01,0.03
+606,Codename: Panzers Cold War,PC,2009.0,Strategy,Atari,0.0,0.02,0.0,0.01,0.03
+607,Transformers: Devastation,PC,2015.0,Action,Activision,0.0,0.03,0.0,0.0,0.03
+608,Section 8,PC,2009.0,Shooter,SouthPeak Games,0.01,0.01,0.0,0.0,0.03
+609,Sins of a Solar Empire,PC,2008.0,Strategy,Pinnacle,0.0,0.02,0.0,0.01,0.03
+610,Lords of the Fallen,PC,2014.0,Role-Playing,Square Enix,0.0,0.03,0.0,0.0,0.03
+611,Resident Evil 4,PC,2007.0,Action,Ubisoft,0.0,0.02,0.0,0.01,0.03
+612,GTR Evolution,PC,2008.0,Racing,Atari,0.0,0.02,0.0,0.01,0.03
+613,SimCity,PC,1988.0,Simulation,Maxis,0.0,0.02,0.0,0.01,0.03
+614,Casino Chaos With Las Vegas Players Collection,PC,2011.0,Misc,THQ,0.03,0.0,0.0,0.0,0.03
+615,Doom 3 BFG Edition,PC,2012.0,Shooter,Bethesda Softworks,0.0,0.02,0.0,0.01,0.03
+616,Braid,PC,2009.0,Platform,Number None,0.0,0.02,0.0,0.01,0.03
+617,Star Wars: The Force Unleashed II,PC,2010.0,Action,LucasArts,0.03,0.0,0.0,0.0,0.03
+618,Need for Speed (2015),PC,2016.0,Racing,Electronic Arts,0.0,0.03,0.0,0.0,0.03
+619,Commander: Conquest of the Americas,PC,2010.0,Strategy,Paradox Interactive,0.0,0.02,0.0,0.01,0.03
+620,Royal Palace of White Sword and The City of Gentiles,PC,2009.0,Role-Playing,Take-Two Interactive,0.0,0.02,0.0,0.01,0.03
+621,007: Quantum of Solace,PC,2008.0,Action,Activision,0.01,0.01,0.0,0.0,0.03
+622,Pro Cycling Manager 2016,PC,2016.0,Sports,Focus Home Interactive,0.0,0.03,0.0,0.0,0.03
+623,Jack Keane,PC,2008.0,Adventure,Kalypso Media,0.0,0.02,0.0,0.0,0.03
+624,World of Zoo,PC,2009.0,Simulation,THQ,0.0,0.02,0.0,0.01,0.03
+625,Syberia,PC,2002.0,Action,Microids,0.0,0.02,0.0,0.0,0.03
+626,Battle vs. Chess,PC,,Misc,TopWare Interactive,0.0,0.02,0.0,0.01,0.03
+627,Battlefield 1942: The WW II Anthology,PC,2004.0,Shooter,Electronic Arts,0.01,0.01,0.0,0.0,0.03
+628,Doom,PC,1992.0,Shooter,id Software,0.02,0.0,0.0,0.0,0.03
+629,Monsters vs. Aliens,PC,2009.0,Action,Activision,0.01,0.01,0.0,0.0,0.03
+630,The Great Mystery Hidden Object Package 5,PC,2015.0,Adventure,Rondomedia,0.0,0.03,0.0,0.0,0.03
+631,Stellaris,PC,2016.0,Strategy,Paradox Interactive,0.0,0.03,0.0,0.0,0.03
+632,Mystery Trackers: The Void,PC,2011.0,Puzzle,Focus Home Interactive,0.0,0.02,0.0,0.01,0.03
+633,Botanicula,PC,2012.0,Adventure,Daedalic Entertainment,0.0,0.02,0.0,0.0,0.03
+634,Age of Conan: Rise of the Godslayer,PC,2010.0,Role-Playing,Funcom,0.0,0.02,0.0,0.0,0.03
+635,Totally Spies! Totally Party,PC,2008.0,Misc,Ubisoft,0.0,0.02,0.0,0.0,0.03
+636,Battlefield Vietnam,PC,2004.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.0,0.03
+637,The Settlers II 10th Anniversary,PC,2006.0,Action,Ubisoft,0.0,0.02,0.0,0.0,0.03
+638,Ride,PC,2015.0,Racing,Milestone S.r.l.,0.0,0.03,0.0,0.0,0.03
+639,Warhammer: Mark of Chaos,PC,2006.0,Strategy,Deep Silver,0.0,0.02,0.0,0.0,0.03
+640,Schlag den Raab,PC,2010.0,Misc,Namco Bandai Games,0.0,0.02,0.0,0.01,0.03
+641,Cossacks: European Wars,PC,2001.0,Strategy,Strategy First,0.0,0.02,0.0,0.0,0.03
+642,Prince of Persia (2008),PC,2008.0,Action,Ubisoft,0.0,0.02,0.0,0.0,0.03
+643,UK Truck Simulator,PC,2010.0,Simulation,,0.0,0.03,0.0,0.0,0.03
+644,Magicka,PC,2011.0,Role-Playing,Paradox Interactive,0.0,0.02,0.0,0.01,0.03
+645,Star Trek: The Game,PC,2013.0,Action,Namco Bandai Games,0.0,0.02,0.0,0.0,0.03
+646,X3: Terran Conflict,PC,2008.0,Simulation,Deep Silver,0.0,0.02,0.0,0.01,0.03
+647,King Arthur II,PC,2011.0,Strategy,Paradox Interactive,0.0,0.02,0.0,0.0,0.03
+648,Max Payne 2: The Fall of Max Payne,PC,2003.0,Shooter,Take-Two Interactive,0.0,0.02,0.0,0.0,0.03
+649,MySims,PC,2008.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.0,0.03
+650,Guild Wars: Nightfall,PC,2006.0,Role-Playing,NCSoft,0.0,0.02,0.0,0.01,0.03
+651,RollerCoaster Tycoon 2: Triple Thrill Pack,PC,2003.0,Strategy,Atari,0.0,0.02,0.0,0.01,0.03
+652,Star Wars The Clone Wars: Republic Heroes,PC,2009.0,Action,LucasArts,0.0,0.02,0.0,0.0,0.03
+653,DiRT Rally,PC,2016.0,Racing,Codemasters,0.0,0.03,0.0,0.0,0.03
+654,The Sims 2: Bon Voyage,PC,2007.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.0,0.03
+655,GRID Autosport,PC,2014.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.03
+656,Neverwinter Nights Diamond,PC,2004.0,Role-Playing,Atari,0.0,0.02,0.0,0.0,0.03
+657,Divinity II: Flames of Vengeance,PC,2010.0,Role-Playing,DTP Entertainment,0.0,0.02,0.0,0.01,0.03
+658,Battlefield 2142,PC,2006.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.0,0.03
+659,Air Conflicts: Secret Wars,PC,2011.0,Simulation,bitComposer Games,0.0,0.02,0.0,0.01,0.03
+660,Lost Planet 2,PC,2010.0,Shooter,Capcom,0.0,0.02,0.0,0.01,0.03
+661,Bully: Scholarship Edition,PC,2008.0,Action,Take-Two Interactive,0.0,0.02,0.0,0.0,0.03
+662,Guild Wars,PC,2005.0,Role-Playing,NCSoft,0.02,0.0,0.0,0.0,0.03
+663,Captain Morgane and the Golden Turtle,PC,2012.0,Adventure,Reef Entertainment,0.0,0.02,0.0,0.0,0.03
+664,Age of Empires III: Gold Edition,PC,2007.0,Strategy,Microsoft Game Studios,0.0,0.02,0.0,0.01,0.03
+665,Dungeon Siege II,PC,2005.0,Role-Playing,Microsoft Game Studios,0.0,0.02,0.0,0.0,0.03
+666,SWAT 4,PC,2005.0,Shooter,Vivendi Games,0.0,0.02,0.0,0.0,0.03
+667,Magicka Collection,PC,2011.0,Adventure,Unknown,0.0,0.02,0.0,0.0,0.03
+668,The Lord of the Rings: Conquest,PC,2009.0,Action,Electronic Arts,0.0,0.02,0.0,0.0,0.03
+669,Battlestations: Pacific,PC,2009.0,Strategy,Eidos Interactive,0.0,0.02,0.0,0.0,0.03
+670,Neverwinter Nights 2,PC,2006.0,Role-Playing,Atari,0.0,0.02,0.0,0.0,0.03
+671,Battlefield 1942,PC,2002.0,Shooter,Electronic Arts,0.01,0.01,0.0,0.0,0.03
+672,X-Men Origins: Wolverine - Uncaged Edition,PC,2009.0,Action,Activision,0.02,0.0,0.0,0.0,0.03
+673,LEGO Pirates of the Caribbean: The Video Game,PC,2011.0,Action,Disney Interactive Studios,0.02,0.0,0.0,0.0,0.03
+674,Jurassic Park: Operation Genesis,PC,2003.0,Simulation,Vivendi Games,0.0,0.02,0.0,0.0,0.03
+675,Stronghold 2 Deluxe,PC,2005.0,Strategy,Take-Two Interactive,0.0,0.02,0.0,0.0,0.02
+676,Puppet Show 3: Lost Town,PC,2011.0,Puzzle,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+677,Star Wars: Empire at War - Forces of Corruption,PC,2006.0,Strategy,LucasArts,0.0,0.02,0.0,0.0,0.02
+678,Ghost Pirates of Vooju Island,PC,2009.0,Adventure,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+679,ParaWorld,PC,2006.0,Strategy,Deep Silver,0.0,0.02,0.0,0.0,0.02
+680,Tropico Reloaded,PC,2009.0,Strategy,Kalypso Media,0.0,0.02,0.0,0.0,0.02
+681,Pharaoh,PC,1998.0,Strategy,Vivendi Games,0.0,0.02,0.0,0.0,0.02
+682,The Settlers: Rise of an Empire,PC,2007.0,Strategy,Ubisoft,0.01,0.01,0.0,0.0,0.02
+683,Warhammer Online: Age of Reckoning,PC,2008.0,Role-Playing,GOA,0.0,0.02,0.0,0.0,0.02
+684,LEGO Harry Potter: Years 1-4,PC,2010.0,Action,Warner Bros. Interactive Entertainment,0.01,0.01,0.0,0.0,0.02
+685,Viva Pinata,PC,2007.0,Simulation,Microsoft Game Studios,0.0,0.02,0.0,0.0,0.02
+686,Bus Simulator 16,PC,2016.0,Simulation,Astragon,0.0,0.02,0.0,0.0,0.02
+687,Demigod,PC,2009.0,Strategy,Atari,0.0,0.02,0.0,0.0,0.02
+688,Star Trek Online,PC,2010.0,Role-Playing,Atari,0.0,0.02,0.0,0.0,0.02
+689,Tropico 4: Modern Times,PC,2012.0,Strategy,Kalypso Media,0.0,0.02,0.0,0.0,0.02
+690,Europa Universalis III Complete,PC,2008.0,Strategy,Paradox Interactive,0.0,0.02,0.0,0.0,0.02
+691,Tom Clancy's Rainbow Six: Vegas 2,PC,2008.0,Shooter,Ubisoft,0.0,0.02,0.0,0.0,0.02
+692,SimCity Societies,PC,2007.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+693,Fishdom 2 Deluxe,PC,2010.0,Puzzle,Rondomedia,0.0,0.02,0.0,0.01,0.02
+694,Brothers in Arms: Hell's Highway,PC,2008.0,Shooter,Ubisoft,0.0,0.02,0.0,0.0,0.02
+695,Stronghold Crusader Extreme,PC,2008.0,Strategy,Gamecock,0.0,0.02,0.0,0.0,0.02
+696,Cities XL 2011,PC,2010.0,Simulation,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+697,Kung Fu Panda,PC,2008.0,Action,Activision,0.0,0.02,0.0,0.0,0.02
+698,Street Fighter X Tekken,PC,2012.0,Fighting,Capcom,0.0,0.02,0.0,0.0,0.02
+699,Ceville,PC,2009.0,Action,Kalypso Media,0.0,0.02,0.0,0.0,0.02
+700,GT Legends,PC,2005.0,Racing,Atari,0.0,0.02,0.0,0.0,0.02
+701,F1 Race Stars,PC,2012.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+702,Escape the Emerald Star,PC,2011.0,Puzzle,PopCap Games,0.02,0.0,0.0,0.0,0.02
+703,Falcon 4.0: Allied Force,PC,2005.0,Simulation,Graphsim Entertainment,0.0,0.02,0.0,0.0,0.02
+704,Unreal Anthology,PC,2006.0,Shooter,Midway Games,0.0,0.02,0.0,0.0,0.02
+705,X3: Terran War Pack,PC,2012.0,Misc,Deep Silver,0.0,0.02,0.0,0.0,0.02
+706,Tom Clancy's EndWar,PC,2009.0,Strategy,Ubisoft,0.0,0.02,0.0,0.0,0.02
+707,Left 4 Dead,PC,2008.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+708,Bejeweled 2 Deluxe,PC,2006.0,Puzzle,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+709,DiRT,PC,2007.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+710,Frontlines: Fuel of War,PC,2008.0,Shooter,THQ,0.0,0.02,0.0,0.0,0.02
+711,Grey's Anatomy: The Video Game,PC,2009.0,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+712,Test Drive Unlimited,PC,2007.0,Racing,Atari,0.0,0.02,0.0,0.0,0.02
+713,SAW,PC,2009.0,Action,Konami Digital Entertainment,0.0,0.02,0.0,0.0,0.02
+714,Ice Age: Dawn of the Dinosaurs,PC,2009.0,Action,Activision,0.02,0.0,0.0,0.0,0.02
+715,Serious Sam HD: Gold Edition,PC,2010.0,Shooter,Devolver Digital,0.0,0.02,0.0,0.0,0.02
+716,Homeworld,PC,1998.0,Strategy,Vivendi Games,0.0,0.02,0.0,0.0,0.02
+717,Plants vs. Zombies: Garden Warfare,PC,2014.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+718,Max Payne,PC,2001.0,Shooter,Take-Two Interactive,0.0,0.02,0.0,0.0,0.02
+719,IL-2 Sturmovik: Forgotten Battles,PC,2003.0,Simulation,Ubisoft,0.0,0.02,0.0,0.0,0.02
+720,Overlord,PC,2007.0,Strategy,Codemasters,0.0,0.02,0.0,0.0,0.02
+721,Sacred 3,PC,2014.0,Role-Playing,Deep Silver,0.0,0.02,0.0,0.0,0.02
+722,Rocket League,PC,2016.0,Sports,505 Games,0.01,0.01,0.0,0.0,0.02
+723,18 Wheels of Steel: Extreme Trucker,PC,2009.0,Racing,Rondomedia,0.0,0.02,0.0,0.0,0.02
+724,Cities in Motion Collection,PC,2011.0,Simulation,Unknown,0.0,0.02,0.0,0.0,0.02
+725,The Settlers IV,PC,2001.0,Strategy,Blue Byte,0.0,0.02,0.0,0.0,0.02
+726,Mount & Blade,PC,2008.0,Role-Playing,Paradox Interactive,0.0,0.02,0.0,0.0,0.02
+727,Mata Hari: Betrayal is only a Kiss Away,PC,2008.0,Adventure,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+728,Quake 4,PC,2005.0,Shooter,Activision,0.0,0.02,0.0,0.0,0.02
+729,Maximum Capacity: Hotel Giant,PC,2002.0,Strategy,JoWood Productions,0.0,0.02,0.0,0.0,0.02
+730,Fuel,PC,2009.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+731,Indigo Prophecy,PC,2005.0,Adventure,Atari,0.0,0.02,0.0,0.0,0.02
+732,Tale of a Hero,PC,2010.0,Adventure,Daedalic,0.0,0.02,0.0,0.01,0.02
+733,FIFA Soccer 09,PC,2008.0,Sports,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+734,The Lord of the Rings: The Battle for Middle-Earth II,PC,2006.0,Strategy,Electronic Arts,0.01,0.01,0.0,0.0,0.02
+735,So Blonde,PC,2008.0,Adventure,Eidos Interactive,0.0,0.02,0.0,0.0,0.02
+736,Legend: Hand of God,PC,2007.0,Role-Playing,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+737,Fallout Trilogy,PC,2004.0,Role-Playing,Ubisoft,0.0,0.02,0.0,0.0,0.02
+738,The Sims: Complete Collection,PC,2005.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.0,0.02
+739,Command & Conquer 3: Deluxe Edition,PC,2008.0,Strategy,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+740,Sacred Gold,PC,2005.0,Role-Playing,Encore,0.0,0.02,0.0,0.0,0.02
+741,Order of War,PC,2009.0,Strategy,Square Enix,0.0,0.01,0.0,0.0,0.02
+742,Painkiller,PC,2004.0,Shooter,DreamCatcher Interactive,0.0,0.02,0.0,0.0,0.02
+743,Spider-Man: Web of Shadows,PC,2008.0,Action,Activision,0.0,0.02,0.0,0.0,0.02
+744,Dungeon Defenders,PC,2011.0,Role-Playing,Unknown,0.02,0.0,0.0,0.0,0.02
+745,Command & Conquer: The First Decade,PC,2006.0,Strategy,Electronic Arts,0.01,0.01,0.0,0.0,0.02
+746,Stormrise,PC,2009.0,Strategy,Sega,0.0,0.02,0.0,0.0,0.02
+747,F1 2016 (Codemasters),PC,2016.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+748,Spider-Man 3,PC,2007.0,Platform,Activision,0.02,0.0,0.0,0.0,0.02
+749,Rugby League Team Manager 2015,PC,2015.0,Action,Alternative Software,0.0,0.02,0.0,0.0,0.02
+750,The Lord of the Rings Online: Mines of Moria,PC,2008.0,Role-Playing,Codemasters Online,0.0,0.02,0.0,0.0,0.02
+751,War Leaders: Clash of Nations,PC,2009.0,Strategy,CDV Software Entertainment,0.0,0.02,0.0,0.0,0.02
+752,Hellgate: London,PC,2007.0,Role-Playing,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+753,Homefront: The Revolution,PC,2016.0,Shooter,Deep Silver,0.0,0.02,0.0,0.0,0.02
+754,TOCA Race Driver 3,PC,2006.0,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+755,Airport Simulator,PC,2011.0,Simulation,Unknown,0.0,0.02,0.0,0.0,0.02
+756,Oil Rush,PC,2012.0,Strategy,Iceberg Interactive,0.0,0.02,0.0,0.0,0.02
+757,Demolition Company: Gold Edition,PC,2011.0,Simulation,,0.0,0.02,0.0,0.0,0.02
+758,The Sims 2: Happy Holiday Stuff,PC,2006.0,Simulation,Electronic Arts,0.01,0.01,0.0,0.0,0.02
+759,Ridge Racer Unbounded,PC,2012.0,Racing,Namco Bandai Games,0.0,0.02,0.0,0.0,0.02
+760,Deus Ex: Mankind Divided,PC,2016.0,Role-Playing,Square Enix,0.0,0.02,0.0,0.0,0.02
+761,RollerCoaster Tycoon World,PC,2016.0,Simulation,Atari,0.0,0.02,0.0,0.0,0.02
+762,Trapped Dead,PC,2011.0,Strategy,Iceberg Interactive,0.0,0.02,0.0,0.0,0.02
+763,Littlest Pet Shop,PC,2008.0,Simulation,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+764,The Sims 2: Family Fun Stuff,PC,2006.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.0,0.02
+765,Worldwide Soccer Manager 2007,PC,2006.0,Sports,Sega,0.0,0.02,0.0,0.0,0.02
+766,Heroes of the Pacific,PC,2005.0,Simulation,Codemasters,0.0,0.02,0.0,0.0,0.02
+767,Mount & Blade: Warband,PC,2010.0,Role-Playing,Paradox Interactive,0.01,0.01,0.0,0.0,0.02
+768,Dark Tales: Edgar Allan Poe's The Premature Burial,PC,2012.0,Puzzle,Focus Multimedia,0.0,0.02,0.0,0.0,0.02
+769,Resident Evil Zero,PC,2016.0,Action,Capcom,0.01,0.01,0.0,0.0,0.02
+770,Mini Ninjas,PC,2009.0,Action,Eidos Interactive,0.0,0.02,0.0,0.0,0.02
+771,NHL 09,PC,2008.0,Sports,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+772,UFO: Trilogy,PC,2007.0,Strategy,Unknown,0.0,0.02,0.0,0.0,0.02
+773,Mount & Blade Collection,PC,2012.0,Role-Playing,Paradox Interactive,0.0,0.02,0.0,0.0,0.02
+774,Vietcong,PC,2003.0,Shooter,Gathering of Developers,0.0,0.02,0.0,0.0,0.02
+775,Starship Troopers,PC,2005.0,Shooter,Empire Interactive,0.0,0.02,0.0,0.0,0.02
+776,Crysis: Warhead,PC,2008.0,Shooter,Electronic Arts,0.0,0.02,0.0,0.0,0.02
+777,Atlantic Quest,PC,2011.0,Puzzle,Avanquest,0.0,0.02,0.0,0.0,0.02
+778,Tycoon City: New York,PC,2006.0,Strategy,Atari,0.0,0.02,0.0,0.0,0.02
+779,Agatha Christie: The ABC Murders,PC,2016.0,Adventure,Microids,0.0,0.02,0.0,0.0,0.02
+780,"Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)",PC,2009.0,Shooter,Activision,0.02,0.0,0.0,0.0,0.02
+781,"Warhammer 40,000: Dawn of War: Soulstorm",PC,2008.0,Strategy,THQ,0.0,0.02,0.0,0.0,0.02
+782,Commandos 3: Destination Berlin,PC,2003.0,Strategy,Eidos Interactive,0.0,0.02,0.0,0.0,0.02
+783,Spirits and Demons: 5 Game Pack,PC,2015.0,Misc,Focus Multimedia,0.0,0.02,0.0,0.0,0.02
+784,Uru: Ages Beyond Myst,PC,2003.0,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+785,X-Plane 10 Global,PC,2013.0,Simulation,Aerosoft,0.0,0.02,0.0,0.0,0.02
+786,WRC 2: FIA World Rally Championship,PC,2011.0,Racing,Ubisoft,0.0,0.01,0.0,0.0,0.02
+787,Legendary,PC,2008.0,Shooter,Atari,0.0,0.01,0.0,0.0,0.02
+788,Blood Bowl: Legendary Edition,PC,2010.0,Sports,Focus Home Interactive,0.0,0.01,0.0,0.0,0.02
+789,Pirates of the Burning Sea,PC,2008.0,Role-Playing,Koch Media,0.0,0.01,0.0,0.0,0.02
+790,WorldShift,PC,2009.0,Strategy,Playlogic Game Factory,0.02,0.0,0.0,0.0,0.02
+791,The Crew: Wild Run,PC,2015.0,Action,Ubisoft,0.0,0.02,0.0,0.0,0.02
+792,7 Roses: A Darkness Rises,PC,2015.0,Misc,Avanquest Software,0.0,0.02,0.0,0.0,0.02
+793,Peggle Nights,PC,2008.0,Puzzle,PopCap Games,0.0,0.01,0.0,0.0,0.02
+794,Command & Conquer 3: Kane's Wrath,PC,2008.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.02
+795,James Bond 007: Blood Stone,PC,2010.0,Shooter,Activision,0.02,0.0,0.0,0.0,0.02
+796,Heavy Fire: Afghanistan,PC,2011.0,Shooter,Mastiff,0.02,0.0,0.0,0.0,0.02
+797,Agatha Christie: Death on the Nile,PC,2008.0,Adventure,Big Fish Games,0.0,0.01,0.0,0.0,0.02
+798,Tomb Raider: Legend,PC,2006.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.02
+799,Combat Flight Simulator 3: Battle for Europe,PC,2002.0,Simulation,Microsoft Game Studios,0.01,0.01,0.0,0.0,0.02
+800,Lara Croft and the Temple of Osiris,PC,2014.0,Action,Square Enix,0.0,0.02,0.0,0.0,0.02
+801,Final Fantasy XIV: Heavensward,PC,2015.0,Action,Square Enix,0.01,0.01,0.0,0.0,0.02
+802,Airline Tycoon,PC,2000.0,Simulation,Interplay,0.0,0.01,0.0,0.0,0.02
+803,Bejeweled Blitz,PC,2010.0,Puzzle,Mastertronic,0.0,0.01,0.0,0.0,0.02
+804,Song of the Deep,PC,2016.0,Action,Insomniac Games,0.02,0.0,0.0,0.0,0.02
+805,Unreal Tournament 2004,PC,2004.0,Shooter,Atari,0.0,0.01,0.0,0.0,0.02
+806,The Longest Journey,PC,1999.0,Adventure,Empire Interactive,0.0,0.01,0.0,0.0,0.02
+807,Stronghold Legends,PC,2006.0,Strategy,Take-Two Interactive,0.0,0.01,0.0,0.0,0.02
+808,Syberia II,PC,2004.0,Adventure,MC2 Entertainment,0.0,0.01,0.0,0.0,0.02
+809,Dungeons - The Dark Lord,PC,2011.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.02
+810,Lost: Via Domus,PC,2008.0,Action,Ubisoft,0.0,0.01,0.0,0.0,0.02
+811,Post Mortem,PC,2003.0,Adventure,Microids,0.0,0.01,0.0,0.0,0.02
+812,Disciples III: Renaissance,PC,2010.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.02
+813,Revolution: 25th Anniversary Collection,PC,2016.0,Adventure,Koch Media,0.0,0.02,0.0,0.0,0.02
+814,Elven Legacy Collection,PC,2010.0,Strategy,Paradox Interactive,0.0,0.01,0.0,0.0,0.02
+815,LEGO Star Wars II: The Original Trilogy,PC,2006.0,Action,Activision,0.0,0.01,0.0,0.0,0.02
+816,Just Cause,PC,2006.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.02
+817,Blazing Angels: Squadrons of WWII,PC,2006.0,Simulation,Ubisoft,0.01,0.0,0.0,0.0,0.02
+818,Divinity: Original Sin,PC,2014.0,Role-Playing,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+819,Still Life 2,PC,2009.0,Adventure,Rondomedia,0.0,0.01,0.0,0.0,0.02
+820,Worms World Party,PC,2001.0,Strategy,Virgin Interactive,0.0,0.01,0.0,0.0,0.02
+821,Gears of War,PC,2007.0,Shooter,Microsoft Game Studios,0.0,0.01,0.0,0.0,0.02
+822,Colin McRae Rally 2005,PC,2004.0,Racing,Codemasters,0.0,0.01,0.0,0.0,0.02
+823,LEGO Star Wars: The Video Game,PC,2005.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.02
+824,Dark Void,PC,2010.0,Action,Capcom,0.0,0.01,0.0,0.0,0.02
+825,Star Trek: Legacy,PC,2006.0,Simulation,Ubisoft,0.0,0.01,0.0,0.0,0.02
+826,Wall-E,PC,2008.0,Platform,THQ,0.0,0.01,0.0,0.0,0.02
+827,Achtung Panzer: Kharkov 1943,PC,2010.0,Strategy,Mamba Games,0.0,0.01,0.0,0.0,0.02
+828,Command & Conquer 4: Tiberian Twilight,PC,2010.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.02
+829,The Incredibles: Rise of the Underminer,PC,2005.0,Action,THQ,0.01,0.0,0.0,0.0,0.02
+830,Farm Frenzy,PC,2008.0,Strategy,Mumbo Jumbo,0.01,0.0,0.0,0.0,0.02
+831,A Vampyre Story,PC,2008.0,Adventure,Crimson Cow,0.0,0.01,0.0,0.0,0.02
+832,The Haunted: Hell's Reach,PC,2011.0,Shooter,Visco,0.02,0.0,0.0,0.0,0.02
+833,Majesty 2 Collection,PC,2011.0,Strategy,Paradox Interactive,0.0,0.01,0.0,0.0,0.02
+834,Sniper Elite,PC,2005.0,Shooter,MC2 Entertainment,0.0,0.01,0.0,0.0,0.02
+835,The Dark Hills of Cherai,PC,2009.0,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.02
+836,FIFA Soccer 08,PC,2007.0,Sports,Electronic Arts,0.0,0.01,0.0,0.0,0.02
+837,Joint Operations: Combined Arms,PC,2009.0,Shooter,NovaLogic,0.01,0.0,0.0,0.0,0.02
+838,Drakensang: The Dark Eye,PC,2009.0,Role-Playing,Eidos Interactive,0.01,0.0,0.0,0.0,0.02
+839,DuckTales: Remastered,PC,2013.0,Action,Capcom,0.0,0.01,0.0,0.0,0.02
+840,Contrast,PC,2013.0,Platform,Focus Home Interactive,0.0,0.01,0.0,0.0,0.02
+841,Elven Legacy,PC,2009.0,Strategy,Paradox Interactive,0.01,0.0,0.0,0.0,0.02
+842,Majesty 2: The Fantasy Kingdom Sim,PC,2009.0,Simulation,Paradox Interactive,0.01,0.0,0.0,0.0,0.02
+843,Command & Conquer Collection,PC,2003.0,Strategy,Electronic Arts,0.01,0.0,0.0,0.0,0.02
+844,Worldwide Soccer Manager 2006,PC,2004.0,Sports,Sega,0.0,0.01,0.0,0.0,0.02
+845,Enemy Territory: Quake Wars,PC,2007.0,Shooter,Activision,0.01,0.0,0.0,0.0,0.02
+846,The Sims 4: Luxury Party Stuff,PC,2015.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.0,0.02
+847,Evil Genius,PC,2004.0,Strategy,Vivendi Games,0.0,0.01,0.0,0.0,0.02
+848,Pillars of Eternity,PC,2014.0,Role-Playing,Paradox Interactive,0.0,0.01,0.0,0.0,0.02
+849,RollerCoaster Tycoon: Gold Edition,PC,2002.0,Strategy,Infogrames,0.01,0.0,0.0,0.0,0.02
+850,Guild Wars: Factions,PC,2006.0,Role-Playing,NCSoft,0.0,0.01,0.0,0.0,0.02
+851,Imperium Romanum,PC,2008.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.02
+852,Ship Simulator 2008,PC,2007.0,Simulation,Lighthouse Interactive,0.0,0.01,0.0,0.0,0.02
+853,Sengoku,PC,2011.0,Strategy,Paradox Interactive,0.0,0.01,0.0,0.0,0.02
+854,IGT Slots: Lucky Larry's Lobstermania,PC,2011.0,Simulation,Masque Publishing,0.01,0.0,0.0,0.0,0.02
+855,You Don't Know Jack,PC,1995.0,Misc,Vivendi Games,0.01,0.0,0.0,0.0,0.02
+856,Turok,PC,2008.0,Action,Touchstone,0.0,0.01,0.0,0.0,0.01
+857,Football Manager Live,PC,2009.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01
+858,Mortal Kombat,PC,1994.0,Fighting,Acclaim Entertainment,0.01,0.0,0.0,0.0,0.01
+859,Serious Sam II,PC,2005.0,Shooter,Take-Two Interactive,0.0,0.01,0.0,0.0,0.01
+860,Neverwinter Nights 2: Mask of the Betrayer,PC,2007.0,Role-Playing,Atari,0.0,0.01,0.0,0.0,0.01
+861,Call of Juarez,PC,2006.0,Shooter,Ubisoft,0.0,0.01,0.0,0.0,0.01
+862,Codename: Panzers Phase Two,PC,2005.0,Strategy,CDV Software Entertainment,0.0,0.01,0.0,0.0,0.01
+863,Rise of Flight: Iron Cross Edition,PC,2010.0,Simulation,Aerosoft,0.01,0.0,0.0,0.0,0.01
+864,Unreal Tournament 2003,PC,2002.0,Shooter,Atari,0.0,0.01,0.0,0.0,0.01
+865,The Last Remnant,PC,2009.0,Role-Playing,Square Enix,0.0,0.01,0.0,0.0,0.01
+866,Impossible Creatures,PC,2002.0,Strategy,Microsoft Game Studios,0.0,0.01,0.0,0.0,0.01
+867,Guitar Hero III: Legends of Rock,PC,2007.0,Misc,Aspyr,0.01,0.0,0.0,0.0,0.01
+868,Blitzkrieg 2 Anthology,PC,2008.0,Strategy,Ascaron Entertainment GmbH,0.0,0.01,0.0,0.0,0.01
+869,Rayman Raving Rabbids,PC,2006.0,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01
+870,Coronation Street: The Mystery of the Missing Hotpot Recipe,PC,2011.0,Adventure,Avanquest,0.0,0.01,0.0,0.0,0.01
+871,Battle Worlds: Kronos,PC,2016.0,Strategy,Nordic Games,0.0,0.01,0.0,0.0,0.01
+872,WRC: FIA World Rally Championship,PC,,Racing,Black Bean Games,0.0,0.01,0.0,0.0,0.01
+873,Digger Simulator,PC,2011.0,Simulation,Excalibur Publishing,0.0,0.01,0.0,0.0,0.01
+874,IL-2 Sturmovik,PC,2001.0,Simulation,Blue Byte,0.0,0.01,0.0,0.0,0.01
+875,East India Company,PC,2009.0,Strategy,Paradox Interactive,0.01,0.0,0.0,0.0,0.01
+876,Empire Deluxe,PC,1992.0,Strategy,New World Computing,0.01,0.0,0.0,0.0,0.01
+877,Virtua Tennis 3,PC,2007.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01
+878,Grand Theft Auto III,PC,2002.0,Action,Take-Two Interactive,0.0,0.01,0.0,0.0,0.01
+879,Paranormal Pursuit: The Gifted One,PC,2015.0,Action,Alawar Entertainment,0.0,0.01,0.0,0.0,0.01
+880,Brain Exercise With Dr. Kawashima,PC,2009.0,Puzzle,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01
+881,Football Manager 2005,PC,2004.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01
+882,Theatre Of War,PC,2007.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+883,Voodoo Chronicles: First Sign,PC,2011.0,Adventure,ValuSoft,0.01,0.0,0.0,0.0,0.01
+884,BlazBlue: Calamity Trigger,PC,2010.0,Fighting,PQube,0.0,0.01,0.0,0.0,0.01
+885,Harry Potter and the Chamber of Secrets,PC,2002.0,Action,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+886,Mystery Legends: Beauty and the Beast,PC,2012.0,Puzzle,Focus Multimedia,0.0,0.01,0.0,0.0,0.01
+887,Raven Squad: Operation Hidden Dagger,PC,2009.0,Shooter,Evolved Games,0.01,0.0,0.0,0.0,0.01
+888,Tiger Woods PGA Tour 2005,PC,2004.0,Sports,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+889,Deus Ex,PC,2000.0,Role-Playing,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+890,Dark Parables: The Exiled Prince,PC,2011.0,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.01
+891,Rail Simulator,PC,2007.0,Simulation,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+892,BattleForge,PC,2009.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+893,Jewel Quest II,PC,2007.0,Puzzle,Avanquest,0.0,0.01,0.0,0.0,0.01
+894,Sonic & All-Stars Racing Transformed,PC,2013.0,Racing,Sega,0.0,0.01,0.0,0.0,0.01
+895,Homeworld Remastered Collection,PC,,Strategy,,0.0,0.01,0.0,0.0,0.01
+896,Legoland,PC,1999.0,Action,LEGO Media,0.0,0.01,0.0,0.0,0.01
+897,Spider-Man: Friend or Foe,PC,2007.0,Action,Activision,0.01,0.0,0.0,0.0,0.01
+898,Marvel: Ultimate Alliance,PC,2006.0,Role-Playing,Activision,0.01,0.0,0.0,0.0,0.01
+899,F.E.A.R. Perseus Mandate,PC,2007.0,Shooter,Vivendi Games,0.01,0.0,0.0,0.0,0.01
+900,Valentino Rossi: The Game,PC,2016.0,Racing,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01
+901,FlatOut: Ultimate Carnage,PC,2008.0,Racing,Empire Interactive,0.0,0.01,0.0,0.0,0.01
+902,Conflict: Denied Ops,PC,2008.0,Shooter,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+903,Championship Manager 2010,PC,2009.0,Sports,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+904,Battlestations: Midway,PC,2007.0,Strategy,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+905,Farming Simulator 15 Expansion Pack,PC,2015.0,Action,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01
+906,The Chronicles of Riddick: Assault on Dark Athena,PC,2009.0,Shooter,Vivendi Games,0.0,0.01,0.0,0.0,0.01
+907,War for the Overworld,PC,2015.0,Strategy,Unknown,0.0,0.01,0.0,0.0,0.01
+908,TimeShift,PC,2007.0,Shooter,Vivendi Games,0.01,0.0,0.0,0.0,0.01
+909,The Train Giant,PC,2012.0,Strategy,Ascaron Entertainment,0.0,0.01,0.0,0.0,0.01
+910,MXGP 2,PC,2016.0,Racing,Milestone S.r.l.,0.0,0.01,0.0,0.0,0.01
+911,Inversion,PC,,Shooter,Namco Bandai Games,0.01,0.0,0.0,0.0,0.01
+912,Command & Conquer Renegade,PC,2002.0,Shooter,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+913,Cities: Skylines Snowfall,PC,2016.0,Simulation,Paradox Development,0.0,0.01,0.0,0.0,0.01
+914,Dungeons & Dragons: Neverwinter Nights - Complete,PC,2011.0,Misc,Atari,0.01,0.0,0.0,0.0,0.01
+915,Juiced 2: Hot Import Nights,PC,2007.0,Racing,THQ,0.0,0.01,0.0,0.0,0.01
+916,Monster Jam,PC,2007.0,Racing,Activision,0.01,0.0,0.0,0.0,0.01
+917,Icewind Dale II,PC,2002.0,Role-Playing,Interplay,0.0,0.01,0.0,0.0,0.01
+918,Act of Aggression,PC,2015.0,Strategy,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01
+919,Fallout Anthology,PC,2015.0,Action,Bethesda Softworks,0.0,0.01,0.0,0.0,0.01
+920,Tropico 3: Gold Edition,PC,2010.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+921,Gobliiins 4,PC,2009.0,Adventure,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+922,Colin McRae Rally 04,PC,2004.0,Racing,Codemasters,0.0,0.01,0.0,0.0,0.01
+923,Grand Prix Legends,PC,1997.0,Racing,Vivendi Games,0.0,0.01,0.0,0.0,0.01
+924,Poker for Dummies,PC,2008.0,Misc,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+925,TrackMania Turbo,PC,2016.0,Action,Ubisoft,0.0,0.01,0.0,0.0,0.01
+926,Alone in the Dark,PC,2008.0,Adventure,Atari,0.0,0.01,0.0,0.0,0.01
+927,The Technomancer,PC,2016.0,Role-Playing,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01
+928,Pro Evolution Soccer 2010,PC,2009.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01
+929,The Amazing Spider-Man 2 (2014),PC,2014.0,Action,Activision,0.0,0.01,0.0,0.0,0.01
+930,Sega Rally Revo,PC,2007.0,Racing,Sega,0.0,0.01,0.0,0.0,0.01
+931,Winning Eleven: Pro Evolution Soccer 2007,PC,2006.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01
+932,Clive Barker's Jericho,PC,2007.0,Shooter,Codemasters,0.0,0.01,0.0,0.0,0.01
+933,Worms 2,PC,1997.0,Strategy,Microprose,0.0,0.01,0.0,0.0,0.01
+934,Madagascar: Escape 2 Africa,PC,2008.0,Action,Activision,0.01,0.0,0.0,0.0,0.01
+935,Legacy of Kain: Defiance,PC,2003.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+936,King's Bounty: Armored Princess,PC,2009.0,Role-Playing,1C Company,0.0,0.01,0.0,0.0,0.01
+937,Rugby World Cup 2015,PC,2015.0,Sports,Ubisoft,0.0,0.01,0.0,0.0,0.01
+938,Total War Attila: Tyrants & Kings,PC,2016.0,Strategy,Koch Media,0.0,0.01,0.0,0.0,0.01
+939,Agatha Christie: Peril at End House,PC,2009.0,Adventure,JoWood Productions,0.0,0.01,0.0,0.0,0.01
+940,Hospital Tycoon,PC,2007.0,Strategy,Codemasters,0.0,0.01,0.0,0.0,0.01
+941,Summer Athletics,PC,2008.0,Sports,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+942,"Transformers: War for Cybertron (XBox 360, PS3, & PC Versions)",PC,2010.0,Shooter,Activision,0.01,0.0,0.0,0.0,0.01
+943,The Rise of the Argonauts,PC,2008.0,Role-Playing,Codemasters,0.0,0.01,0.0,0.0,0.01
+944,Trine,PC,2009.0,Action,Nobilis,0.0,0.01,0.0,0.0,0.01
+945,Pony Friends 2,PC,2009.0,Simulation,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+946,Deal or No Deal,PC,2006.0,Misc,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01
+947,STORM: Frontline Nation,PC,2011.0,Strategy,Unknown,0.0,0.01,0.0,0.0,0.01
+948,Patrician IV: Gold Edition,PC,2011.0,Misc,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+949,Transformers: Fall of Cybertron,PC,2012.0,Action,Activision,0.01,0.0,0.0,0.0,0.01
+950,Spore Galactic Adventures,PC,2009.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+951,15 Days,PC,2009.0,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+952,Driving Simulator 2011,PC,2011.0,Racing,,0.0,0.01,0.0,0.0,0.01
+953,The Treasures of Mystery Island 3 Pack - Save Mystery Island!,PC,2011.0,Puzzle,Unknown,0.01,0.0,0.0,0.0,0.01
+954,Bookworm Deluxe,PC,2006.0,Puzzle,PopCap Games,0.01,0.0,0.0,0.0,0.01
+955,Codename: Panzers Complete Collection,PC,2016.0,Strategy,Nordic Games,0.0,0.01,0.0,0.0,0.01
+956,Pro Evolution Soccer 2008,PC,2007.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01
+957,End of Nations,PC,2012.0,Strategy,Trion Worlds,0.01,0.0,0.0,0.0,0.01
+958,Damnation,PC,2009.0,Shooter,Codemasters,0.0,0.01,0.0,0.0,0.01
+959,Breach,PC,2011.0,Shooter,Destineer,0.01,0.0,0.0,0.0,0.01
+960,Myst IV: Revelation,PC,2004.0,Adventure,Ubisoft,0.01,0.0,0.0,0.0,0.01
