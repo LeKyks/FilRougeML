@@ -4,16 +4,19 @@ def analyze_dataset(df):
     print(df.columns)
     print(df.info())
 
-def get_only_pc_platform(df):
-    df = df[df['Platform'] == 'PC']
-    df["Rank"]=range(1, len(df) + 1)
+def clean(df):
+    df[df['Platform'] == 'PC']
+    df['Rank']=range(1, len(df) + 1)
+    df = df.dropna()
+    df.drop(['Platform'], axis=1)
     return df
 
 def main():
-    df2 = pd.read_csv('C:/Users/pierre/OneDrive - Ynov/COURS/M1/Machine learning/Supports de cours/fil rouge/vgsales.csv')
+    df2 = pd.read_csv('vgsales.csv')
     analyze_dataset(df2)
-    df_pc = get_only_pc_platform(df2)
-    df_pc.to_csv('C:/Users/pierre/OneDrive - Ynov/COURS/M1/Machine learning/Supports de cours/fil rouge/vgsales_pc.csv', index=False)
+    df_pc = clean(df2)
+    analyze_dataset(df2)
+    df_pc.to_csv('vgsales_pc.csv', index=False)
     
 
 if __name__ == "__main__":

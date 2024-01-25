@@ -3,13 +3,14 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.cluster import DBSCAN
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 def charger_donnees(chemin_fichier):
     return pd.read_csv(chemin_fichier)
 
 def preparer_donnees(df):
-    features = df[['Year', 'Genre', 'NA_Sales', 'EU_Sales', 'JP_Sales', 'Other_Sales','Publisher']]
-    features = pd.get_dummies(features, columns=['Genre'])
+    features = df[['Year', 'Genre', 'NA_Sales', 'EU_Sales', 'JP_Sales', 'Other_Sales','Publisher','Name']]
+    features = pd.get_dummies(features, columns=['Genre', 'Publisher','Name'])
     scaler = StandardScaler()
     features_scaled = scaler.fit_transform(features)
     pca = PCA(n_components=2)
@@ -27,6 +28,11 @@ def afficher_clusters(features_pca, labels):
     plt.ylabel('PCA Component 2')
     plt.show()
 
+def afficher_jeux_par_cluster(df, labels):
+    df['Cluster'] = labels
+    df = df.sort_values(by=['Cluster'])
+    print(df[['Name', 'Cluster']])
+
 def noms_clusters(labels):
     unique_labels = set(labels)
     noms_clusters = {}
@@ -42,6 +48,7 @@ def recommander_jeux(df, labels, cluster_choisi):
 
     return jeux_recommandes[['Rank', 'Name', 'Platform', 'Year', 'Genre', 'Publisher', 'NA_Sales', 'EU_Sales', 'JP_Sales', 'Other_Sales']]
 
+
 def main():
     chemin_fichier = 'vgsales_pc.csv'
     df = charger_donnees(chemin_fichier)
@@ -54,6 +61,7 @@ def main():
     jeux_recommandes = recommander_jeux(df, labels, cluster_choisi)
 
     noms_clusters_dict = noms_clusters(labels)
+    afficher_jeux_par_cluster(jeux_recommandes, labels)
     nom_cluster_choisi = noms_clusters_dict[cluster_choisi] if cluster_choisi in noms_clusters_dict else "Points considérés comme du bruit"
 
     print(f"\nJeux recommandés pour {nom_cluster_choisi} :")
