@@ -16,14 +16,18 @@ def nettoyer_colonne(df, colonne):
 
 def main():
     # Charger les données
-    vgsales_df = charger_donnees('vgsales_pc.csv')
-    steam_df = charger_donnees('games_normalized.csv') #prendre le dataset avec les notes pour chaque jeu
+    # vgsales_df = charger_donnees('vgsales_pc.csv')
+    steam_df = charger_donnees('steam_clean.csv')
+    steam_normalized_df = charger_donnees('games_normalized.csv') 
 
     # Nettoyer les colonnes 'Name' et 'game'
-    vgsales_df = nettoyer_colonne(vgsales_df, 'Name')
-    steam_df = nettoyer_colonne(steam_df, 'game')
+    # vgsales_df = nettoyer_colonne(vgsales_df, 'Name')
+    steam_normalized_df = nettoyer_colonne(steam_normalized_df, 'game')
+    steam_df = nettoyer_colonne(steam_df, 'name')
     # Effectuer la fusion sur les noms des jeux
-    merged_df = pd.merge(vgsales_df, steam_df, left_on='Name', right_on='game', how='inner')
+
+    merged_df = pd.merge(steam_normalized_df, steam_df, left_on='game', right_on='name', how='inner')
+    merged_df.drop_duplicates(subset='game', inplace=True)  # Enlever les doublons sur la colonne 'name'
 
     # Afficher le résultat ou faire d'autres opérations sur le dataframe fusionné
     print(merged_df)
