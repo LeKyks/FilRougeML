@@ -18,7 +18,7 @@ def main():
     # Charger les données
     # vgsales_df = charger_donnees('vgsales_pc.csv')
     steam_df = charger_donnees('steam_clean.csv')
-    steam_normalized_df = charger_donnees('games_normalized.csv') 
+    steam_normalized_df = charger_donnees('games_note_users.csv') 
 
     # Nettoyer les colonnes 'Name' et 'game'
     # vgsales_df = nettoyer_colonne(vgsales_df, 'Name')
@@ -27,10 +27,10 @@ def main():
     # Effectuer la fusion sur les noms des jeux
 
     merged_df = pd.merge(steam_normalized_df, steam_df, left_on='game', right_on='name', how='inner')
-    merged_df.drop_duplicates(subset='game', inplace=True)  # Enlever les doublons sur la colonne 'name'
+    print(merged_df)
 
     # Afficher le résultat ou faire d'autres opérations sur le dataframe fusionné
-    print(merged_df)
+    merged_df.to_csv('merged.csv', index=False)
 
 
 if __name__ == "__main__":

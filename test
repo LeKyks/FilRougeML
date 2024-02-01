@@ -1,0 +1,71 @@
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import linear_kernel
+
+def preprocess_data(file_path):
+    # Charger les données depuis le fichier CSV
+    df = pd.read_csv(file_path)
+
+    # Supprimer les colonnes inutiles ou non pertinentes pour la recommandation
+    columns_to_drop = ['average_playtime', 'median_playtime', 'price', 'owners', 'appid', 'english', 'required_age', 'achievements', 'positive_ratings', 'negative_ratings']
+    df = df.drop(columns=columns_to_drop, axis=1)
+
+    # Remplacer les valeurs manquantes par des chaînes vides
+    df = df.fillna('')
+
+    return df
+
+def vectorize_features(df):
+    # Sélectionner les colonnes pertinentes pour la vectorisation des caractéristiques
+    selected_columns = ['developer', 'publisher', 'categories', 'genres', 'steamspy_tags']
+
+
+    # Combiner les colonnes sélectionnées en une seule colonne 'features'
+    df['features'] = df[selected_columns].apply(lambda x: ' '.join(x), axis=1)
+
+    # Vectorisation des caractéristiques avec TF-IDF
+    tfidf_vectorizer = TfidfVectorizer(stop_words='english')
+    tfidf_matrix = tfidf_vectorizer.fit_transform(df['features'])
+
+    return tfidf_matrix
+
+def calculate_cosine_similarity(tfidf_matrix):
+    # Calculer la similarité cosinus entre les jeux
+    cosine_similarities = linear_kernel(tfidf_matrix, tfidf_matrix)
+    return cosine_similarities
+
+def recommend_games(game_names, df, cosine_similarities, n=5):
+    # Trouver les index des jeux correspondant aux noms donnés
+    game_indices = df[df['name'].isin(game_names)].index.tolist()
+
+    # Calculer la similarité moyenne pour chaque jeu donné
+    avg_similarity = cosine_similarities[game_indices].mean(axis=0)
+
+    # Trier les jeux par similarité décroissante et obtenir les noms recommandés
+    recommended_indices = avg_similarity.argsort()[::-1][:n]
+    recommended_games = df.iloc[recommended_indices]['name'].tolist()
+
+    return recommended_games
+
+
+def main():
+    # Chemin vers le fichier CSV
+    file_path = 'steam.csv'
+
+    # Prétraitement des données
+    df = preprocess_data(file_path)
+
+    # Vectorisation des caractéristiques
+    tfidf_matrix = vectorize_features(df)
+
+    # Calcul de la similarité cosinus
+    cosine_similarities = calculate_cosine_similarity(tfidf_matrix)
+
+    # Exemple d'utilisation : Recommander des jeux similaires à "goats on a bridge"
+    input_games = ["STAR WARS™ Jedi Knight - Jedi Academy™","X-Blades",'call of duty®: modern warfare® 2','counter-strike: global offensive']
+    recommended_games = recommend_games(input_games, df, cosine_similarities, n=5)
+
+    print(f"Jeux recommandés pour {input_games}: {recommended_games}")
+
+if __name__ == "__main__":
+    main()
